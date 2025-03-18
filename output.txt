@@ -1,0 +1,3024 @@
+Input size: 36
+Bucket size: 1
+Method: Division, mod 120
+Collision handling: Linear probing
+Number of primary collisions:  9
+Number of secondary collisions: 5
+
+Bucket 0 - 5:    XXXXXX    XXXXXX  [60002]    XXXXXX    XXXXXX  
+Bucket 5 - 10:    XXXXXX  [60006]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 10 - 15:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 15 - 20:    XXXXXX  [65536]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 20 - 25:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 25 - 30:  [52705]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 30 - 35:    XXXXXX  [23551]  [99272]    XXXXXX    XXXXXX  
+Bucket 35 - 40:  [55595]    XXXXXX    XXXXXX  [20558]    XXXXXX  
+Bucket 40 - 45:  [28360]  [83200]    XXXXXX    XXXXXX  [19124]  
+Bucket 45 - 50:  [31844]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 50 - 55:    XXXXXX    XXXXXX  [28252]    XXXXXX    XXXXXX  
+Bucket 55 - 60:    XXXXXX  [86456]  [32336]  [87058]  [31137]  
+Bucket 60 - 65:    XXXXXX  [65461]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 65 - 70:  [36065]  [32346]  [73987]    XXXXXX    XXXXXX  
+Bucket 70 - 75:    XXXXXX  [78071]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 75 - 80:  [41715]    XXXXXX    XXXXXX    XXXXXX  [25999]  
+Bucket 80 - 85:    XXXXXX    XXXXXX    XXXXXX  [39683]    XXXXXX  
+Bucket 85 - 90:    XXXXXX    XXXXXX    XXXXXX    XXXXXX  [52649]  
+Bucket 90 - 95:    XXXXXX    XXXXXX  [35612]  [70772]  [32372]  
+Bucket 95 - 100:  [87692]  [6574]  [82537]    XXXXXX    XXXXXX  
+Bucket 100 - 105:  [30220]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 105 - 110:    XXXXXX    XXXXXX  [75347]    XXXXXX    XXXXXX  
+Bucket 110 - 115:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 115 - 120:  [53155]  [27235]    XXXXXX    XXXXXX    XXXXXX  
+
+Load factor: 0.30
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 36
+Bucket size: 1
+Method: Division, mod 120
+Collision handling: Quadratic probing
+Number of primary collisions:  9
+Number of secondary collisions: 4
+
+Bucket 0 - 5:    XXXXXX    XXXXXX  [60002]    XXXXXX    XXXXXX  
+Bucket 5 - 10:    XXXXXX  [60006]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 10 - 15:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 15 - 20:    XXXXXX  [65536]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 20 - 25:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 25 - 30:  [52705]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 30 - 35:    XXXXXX  [23551]  [99272]    XXXXXX    XXXXXX  
+Bucket 35 - 40:  [55595]    XXXXXX    XXXXXX  [20558]    XXXXXX  
+Bucket 40 - 45:  [28360]  [83200]    XXXXXX    XXXXXX  [19124]  
+Bucket 45 - 50:  [31844]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 50 - 55:    XXXXXX    XXXXXX  [28252]    XXXXXX    XXXXXX  
+Bucket 55 - 60:    XXXXXX  [86456]  [32336]  [87058]    XXXXXX  
+Bucket 60 - 65:    XXXXXX  [31137]  [65461]    XXXXXX    XXXXXX  
+Bucket 65 - 70:  [36065]  [32346]  [73987]    XXXXXX    XXXXXX  
+Bucket 70 - 75:    XXXXXX  [78071]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 75 - 80:  [41715]    XXXXXX    XXXXXX    XXXXXX  [25999]  
+Bucket 80 - 85:    XXXXXX    XXXXXX    XXXXXX  [39683]    XXXXXX  
+Bucket 85 - 90:    XXXXXX    XXXXXX    XXXXXX    XXXXXX  [52649]  
+Bucket 90 - 95:    XXXXXX    XXXXXX  [35612]  [70772]  [6574]  
+Bucket 95 - 100:    XXXXXX  [32372]  [82537]    XXXXXX    XXXXXX  
+Bucket 100 - 105:  [30220]    XXXXXX  [87692]    XXXXXX    XXXXXX  
+Bucket 105 - 110:    XXXXXX    XXXXXX  [75347]    XXXXXX    XXXXXX  
+Bucket 110 - 115:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 115 - 120:  [53155]  [27235]    XXXXXX    XXXXXX    XXXXXX  
+
+Load factor: 0.30
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 36
+Bucket size: 1
+Method: Division, mod 120
+Collision handling: Chaining
+Number of primary collisions:  7
+Number of secondary collisions: 0
+
+Bucket 0 - 5:    XXXXXX    XXXXXX  [60002]    XXXXXX    XXXXXX  
+Bucket 5 - 10:    XXXXXX  [60006]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 10 - 15:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 15 - 20:    XXXXXX  [65536]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 20 - 25:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 25 - 30:  [52705]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 30 - 35:    XXXXXX  [23551]  [99272]    XXXXXX    XXXXXX  
+Bucket 35 - 40:  [55595]    XXXXXX    XXXXXX  [20558]    XXXXXX  
+Bucket 40 - 45:  [28360][83200]    XXXXXX    XXXXXX    XXXXXX  [19124][31844]  
+Bucket 45 - 50:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 50 - 55:    XXXXXX    XXXXXX  [28252]    XXXXXX    XXXXXX  
+Bucket 55 - 60:    XXXXXX  [86456][32336]  [31137]  [87058]    XXXXXX  
+Bucket 60 - 65:    XXXXXX  [65461]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 65 - 70:  [36065]  [32346]  [73987]    XXXXXX    XXXXXX  
+Bucket 70 - 75:    XXXXXX  [78071]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 75 - 80:  [41715]    XXXXXX    XXXXXX    XXXXXX  [25999]  
+Bucket 80 - 85:    XXXXXX    XXXXXX    XXXXXX  [39683]    XXXXXX  
+Bucket 85 - 90:    XXXXXX    XXXXXX    XXXXXX    XXXXXX  [52649]  
+Bucket 90 - 95:    XXXXXX    XXXXXX  [35612][70772][32372][87692]    XXXXXX  [6574]  
+Bucket 95 - 100:    XXXXXX    XXXXXX  [82537]    XXXXXX    XXXXXX  
+Bucket 100 - 105:  [30220]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 105 - 110:    XXXXXX    XXXXXX  [75347]    XXXXXX    XXXXXX  
+Bucket 110 - 115:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 115 - 120:  [53155][27235]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+
+Load factor: 0.30
+
+---------------------------------------
+0 values unable to be hashed
+
+
+
+Execution time for linear probing via division scheme mod 120: 1.70e-03 seconds
+
+Execution time for quadratic probing via division scheme mod 120: 1.42e-03 seconds
+
+Execution time for chaining via division scheme mod 120: 9.89e-04 seconds
+
+Execution time for entire division scheme mod 120: 4.25e-03 seconds
+
+.........................................................
+
+Execution time of entire program run: 1.47e+01 seconds
+
+************************************Next Run************************************
+Input size: 36
+Bucket size: 1
+Method: Division, mod 113
+Collision handling: Linear probing
+Number of primary collisions:  8
+Number of secondary collisions: 10
+
+Bucket 0 - 5:  [55595]    XXXXXX  [28252]  [60006]  [87692]  
+Bucket 5 - 10:  [27235]    XXXXXX    XXXXXX    XXXXXX  [25999]  
+Bucket 10 - 15:    XXXXXX  [86456]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 15 - 20:    XXXXXX    XXXXXX  [35612]  [32336]  [41715]  
+Bucket 20 - 25:  [6574]  [39683]  [36065]    XXXXXX    XXXXXX  
+Bucket 25 - 30:    XXXXXX    XXXXXX  [19124]  [32346]    XXXXXX  
+Bucket 30 - 35:    XXXXXX    XXXXXX  [83200]    XXXXXX  [70772]  
+Bucket 35 - 40:  [65461]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 40 - 45:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 45 - 50:  [53155]    XXXXXX  [82537]  [87058]  [30220]  
+Bucket 50 - 55:  [52705]  [23551]    XXXXXX    XXXXXX  [32372]  
+Bucket 55 - 60:    XXXXXX    XXXXXX    XXXXXX  [99272]    XXXXXX  
+Bucket 60 - 65:    XXXXXX    XXXXXX  [31137]    XXXXXX    XXXXXX  
+Bucket 65 - 70:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 70 - 75:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 75 - 80:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 80 - 85:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 85 - 90:  [73987]    XXXXXX    XXXXXX    XXXXXX  [75347]  
+Bucket 90 - 95:    XXXXXX  [31844]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 95 - 100:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 100 - 105:    XXXXXX  [78071]    XXXXXX    XXXXXX  [52649]  
+Bucket 105 - 110:  [20558]    XXXXXX    XXXXXX    XXXXXX  [65536]  
+Bucket 110 - 115:  [28360]    XXXXXX  [60002]    XXXXXX    XXXXXX  
+Bucket 115 - 120:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+
+Load factor: 0.30
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 36
+Bucket size: 1
+Method: Division, mod 113
+Collision handling: Quadratic probing
+Number of primary collisions:  8
+Number of secondary collisions: 5
+
+Bucket 0 - 5:  [55595]    XXXXXX  [28252]  [60006]  [87692]  
+Bucket 5 - 10:    XXXXXX  [27235]    XXXXXX    XXXXXX  [25999]  
+Bucket 10 - 15:    XXXXXX  [86456]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 15 - 20:    XXXXXX    XXXXXX  [35612]  [32336]  [41715]  
+Bucket 20 - 25:  [6574]  [39683]  [36065]    XXXXXX    XXXXXX  
+Bucket 25 - 30:    XXXXXX    XXXXXX  [19124]  [32346]    XXXXXX  
+Bucket 30 - 35:    XXXXXX    XXXXXX  [83200]    XXXXXX  [70772]  
+Bucket 35 - 40:  [65461]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 40 - 45:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 45 - 50:  [53155]    XXXXXX  [82537]  [87058]  [30220]  
+Bucket 50 - 55:    XXXXXX  [52705]    XXXXXX    XXXXXX  [32372]  
+Bucket 55 - 60:    XXXXXX    XXXXXX  [23551]  [99272]    XXXXXX  
+Bucket 60 - 65:    XXXXXX    XXXXXX  [31137]    XXXXXX    XXXXXX  
+Bucket 65 - 70:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 70 - 75:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 75 - 80:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 80 - 85:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 85 - 90:  [73987]    XXXXXX    XXXXXX    XXXXXX  [75347]  
+Bucket 90 - 95:    XXXXXX  [31844]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 95 - 100:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 100 - 105:    XXXXXX  [78071]    XXXXXX    XXXXXX  [52649]  
+Bucket 105 - 110:  [20558]    XXXXXX    XXXXXX    XXXXXX  [65536]  
+Bucket 110 - 115:  [28360]    XXXXXX  [60002]    XXXXXX    XXXXXX  
+Bucket 115 - 120:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+
+Load factor: 0.30
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 36
+Bucket size: 1
+Method: Division, mod 113
+Collision handling: Chaining
+Number of primary collisions:  8
+Number of secondary collisions: 0
+
+Bucket 0 - 5:    XXXXXX    XXXXXX  [28252][27235]  [60006]  [87692]  
+Bucket 5 - 10:    XXXXXX    XXXXXX    XXXXXX    XXXXXX  [25999]  
+Bucket 10 - 15:    XXXXXX  [86456]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 15 - 20:    XXXXXX    XXXXXX  [35612]  [32336][41715][36065]    XXXXXX  
+Bucket 20 - 25:  [6574][39683]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 25 - 30:    XXXXXX    XXXXXX  [19124]  [32346]    XXXXXX  
+Bucket 30 - 35:    XXXXXX    XXXXXX  [83200]    XXXXXX  [70772][65461]  
+Bucket 35 - 40:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 40 - 45:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 45 - 50:  [53155]    XXXXXX  [82537][52705][23551]  [87058]  [30220]  
+Bucket 50 - 55:    XXXXXX    XXXXXX    XXXXXX    XXXXXX  [32372]  
+Bucket 55 - 60:    XXXXXX    XXXXXX    XXXXXX  [99272]    XXXXXX  
+Bucket 60 - 65:    XXXXXX    XXXXXX  [31137]    XXXXXX    XXXXXX  
+Bucket 65 - 70:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 70 - 75:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 75 - 80:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 80 - 85:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 85 - 90:  [73987]    XXXXXX    XXXXXX    XXXXXX  [75347]  
+Bucket 90 - 95:    XXXXXX  [31844]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 95 - 100:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 100 - 105:    XXXXXX  [78071]    XXXXXX    XXXXXX  [52649]  
+Bucket 105 - 110:  [20558]    XXXXXX    XXXXXX    XXXXXX  [65536]  
+Bucket 110 - 115:  [28360]    XXXXXX  [60002][55595]    XXXXXX    XXXXXX  
+Bucket 115 - 120:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+
+Load factor: 0.30
+
+---------------------------------------
+0 values unable to be hashed
+
+
+
+Execution time for linear probing via division scheme mod 113: 1.24e-03 seconds
+
+Execution time for quadratic probing via division scheme mod 113: 9.63e-04 seconds
+
+Execution time for chaining via division scheme mod 113: 6.69e-04 seconds
+
+Execution time for entire division scheme mod 113: 3.01e-03 seconds
+
+.........................................................
+
+Execution time of entire program run: 7.82e+00 seconds
+
+************************************Next Run************************************
+Input size: 36
+Bucket size: 3
+Method: Division, mod 41
+Collision handling: Linear probing
+Number of primary collisions:  1
+Number of secondary collisions: 0
+
+Bucket 1 - 3:  55595  XXXXXX  XXXXXX
+Bucket 4 - 6:  XXXXXX  XXXXXX  XXXXXX
+Bucket 7 - 9:  XXXXXX  XXXXXX  XXXXXX
+Bucket 10 - 12:  30220  28252  XXXXXX
+Bucket 13 - 15:  82537  XXXXXX  XXXXXX
+Bucket 16 - 18:  52649  25999  XXXXXX
+Bucket 19 - 21:  70772  XXXXXX  XXXXXX
+Bucket 22 - 24:  78071  XXXXXX  XXXXXX
+Bucket 25 - 27:  XXXXXX  XXXXXX  XXXXXX
+Bucket 28 - 30:  XXXXXX  XXXXXX  XXXXXX
+Bucket 31 - 33:  XXXXXX  XXXXXX  XXXXXX
+Bucket 34 - 36:  99272  83200  27235  
+Bucket 37 - 39:  XXXXXX  XXXXXX  XXXXXX
+Bucket 40 - 42:  XXXXXX  XXXXXX  XXXXXX
+Bucket 43 - 45:  6574  XXXXXX  XXXXXX
+Bucket 46 - 48:  87058  XXXXXX  XXXXXX
+Bucket 49 - 51:  XXXXXX  XXXXXX  XXXXXX
+Bucket 52 - 54:  20558  23551  XXXXXX
+Bucket 55 - 57:  19124  31137  41715  
+Bucket 58 - 60:  60002  53155  65536  
+Bucket 61 - 63:  52705  XXXXXX  XXXXXX
+Bucket 64 - 66:  XXXXXX  XXXXXX  XXXXXX
+Bucket 67 - 69:  XXXXXX  XXXXXX  XXXXXX
+Bucket 70 - 72:  73987  32372  60006  
+Bucket 73 - 75:  35612  XXXXXX  XXXXXX
+Bucket 76 - 78:  65461  XXXXXX  XXXXXX
+Bucket 79 - 81:  36065  XXXXXX  XXXXXX
+Bucket 82 - 84:  XXXXXX  XXXXXX  XXXXXX
+Bucket 85 - 87:  86456  32336  31844  
+Bucket 88 - 90:  28360  XXXXXX  XXXXXX
+Bucket 91 - 93:  75347  XXXXXX  XXXXXX
+Bucket 94 - 96:  XXXXXX  XXXXXX  XXXXXX
+Bucket 97 - 99:  XXXXXX  XXXXXX  XXXXXX
+Bucket 100 - 102:  XXXXXX  XXXXXX  XXXXXX
+Bucket 103 - 105:  87692  XXXXXX  XXXXXX
+Bucket 106 - 108:  XXXXXX  XXXXXX  XXXXXX
+Bucket 109 - 111:  39683  XXXXXX  XXXXXX
+Bucket 112 - 114:  XXXXXX  XXXXXX  XXXXXX
+Bucket 115 - 117:  32346  XXXXXX  XXXXXX
+Bucket 118 - 120:  XXXXXX  XXXXXX  XXXXXX
+
+Load factor: 0.30
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 36
+Bucket size: 3
+Method: Division, mod 41
+Collision handling: Quadratic probing
+Number of primary collisions:  1
+Number of secondary collisions: 1
+
+Bucket 1 - 3:  XXXXXX  XXXXXX  XXXXXX
+Bucket 4 - 6:  XXXXXX  XXXXXX  XXXXXX
+Bucket 7 - 9:  XXXXXX  XXXXXX  XXXXXX
+Bucket 10 - 12:  30220  28252  XXXXXX
+Bucket 13 - 15:  82537  XXXXXX  XXXXXX
+Bucket 16 - 18:  52649  25999  XXXXXX
+Bucket 19 - 21:  70772  XXXXXX  XXXXXX
+Bucket 22 - 24:  78071  XXXXXX  XXXXXX
+Bucket 25 - 27:  XXXXXX  XXXXXX  XXXXXX
+Bucket 28 - 30:  XXXXXX  XXXXXX  XXXXXX
+Bucket 31 - 33:  XXXXXX  XXXXXX  XXXXXX
+Bucket 34 - 36:  99272  83200  27235  
+Bucket 37 - 39:  XXXXXX  XXXXXX  XXXXXX
+Bucket 40 - 42:  XXXXXX  XXXXXX  XXXXXX
+Bucket 43 - 45:  6574  XXXXXX  XXXXXX
+Bucket 46 - 48:  87058  XXXXXX  XXXXXX
+Bucket 49 - 51:  XXXXXX  XXXXXX  XXXXXX
+Bucket 52 - 54:  20558  23551  XXXXXX
+Bucket 55 - 57:  19124  31137  41715  
+Bucket 58 - 60:  60002  53155  65536  
+Bucket 61 - 63:  52705  XXXXXX  XXXXXX
+Bucket 64 - 66:  XXXXXX  XXXXXX  XXXXXX
+Bucket 67 - 69:  XXXXXX  XXXXXX  XXXXXX
+Bucket 70 - 72:  73987  32372  60006  
+Bucket 73 - 75:  35612  XXXXXX  XXXXXX
+Bucket 76 - 78:  65461  XXXXXX  XXXXXX
+Bucket 79 - 81:  36065  XXXXXX  XXXXXX
+Bucket 82 - 84:  XXXXXX  XXXXXX  XXXXXX
+Bucket 85 - 87:  86456  32336  31844  
+Bucket 88 - 90:  28360  XXXXXX  XXXXXX
+Bucket 91 - 93:  75347  XXXXXX  XXXXXX
+Bucket 94 - 96:  XXXXXX  XXXXXX  XXXXXX
+Bucket 97 - 99:  XXXXXX  XXXXXX  XXXXXX
+Bucket 100 - 102:  XXXXXX  XXXXXX  XXXXXX
+Bucket 103 - 105:  87692  XXXXXX  XXXXXX
+Bucket 106 - 108:  XXXXXX  XXXXXX  XXXXXX
+Bucket 109 - 111:  55595  39683  XXXXXX
+Bucket 112 - 114:  XXXXXX  XXXXXX  XXXXXX
+Bucket 115 - 117:  32346  XXXXXX  XXXXXX
+Bucket 118 - 120:  XXXXXX  XXXXXX  XXXXXX
+
+Load factor: 0.30
+
+---------------------------------------
+0 values unable to be hashed
+
+
+
+Execution time of linear probing via division scheme mod 41 when bucket size = 3: 9.14e-04 seconds
+
+Execution time of quadratic probing via division scheme mod 41 when bucket size = 3: 6.75e-04 seconds
+
+Execution time for entire division scheme mod 41 when bucket size = 3: 1.62e-03 seconds
+
+.........................................................
+
+Execution time of entire program run: 6.75e+00 seconds
+
+************************************Next Run************************************
+Input size: 36
+Bucket size: 1
+Method: Multiplication, multiplication value 120
+Collision handling: Linear probing
+Number of primary collisions:  30
+Number of secondary collisions: 95
+
+Bucket 0 - 5:  [30220]  [28360]  [55595]  [53155]  [41715]  
+Bucket 5 - 10:  [83200]  [52705]  [27235]  [36065]    XXXXXX  
+Bucket 10 - 15:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 15 - 20:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 20 - 25:    XXXXXX    XXXXXX    XXXXXX    XXXXXX  [87058]  
+Bucket 25 - 30:  [39683]  [20558]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 30 - 35:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 35 - 40:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 40 - 45:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 45 - 50:    XXXXXX    XXXXXX  [23551]  [32346]  [78071]  
+Bucket 50 - 55:  [86456]  [32336]  [65461]  [60006]  [65536]  
+Bucket 55 - 60:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 60 - 65:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 65 - 70:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 70 - 75:    XXXXXX    XXXXXX  [19124]  [6574]  [52649]  
+Bucket 75 - 80:  [25999]  [31844]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 80 - 85:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 85 - 90:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 90 - 95:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 95 - 100:    XXXXXX  [73987]  [82537]  [35612]  [70772]  
+Bucket 100 - 105:  [32372]  [99272]  [60002]  [87692]  [75347]  
+Bucket 105 - 110:  [31137]  [28252]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 110 - 115:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 115 - 120:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+
+Load factor: 0.30
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 36
+Bucket size: 1
+Method: Multiplication, multiplication value 120
+Collision handling: Quadratic probing
+Number of primary collisions:  30
+Number of secondary collisions: 102
+
+Bucket 0 - 5:  [30220]  [28360]    XXXXXX    XXXXXX  [55595]  
+Bucket 5 - 10:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 10 - 15:  [53155]  [99272]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 15 - 20:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 20 - 25:  [41715]  [75347]  [28252]    XXXXXX  [87058]  
+Bucket 25 - 30:  [39683]    XXXXXX    XXXXXX  [20558]    XXXXXX  
+Bucket 30 - 35:    XXXXXX    XXXXXX  [60002]    XXXXXX    XXXXXX  
+Bucket 35 - 40:  [83200]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 40 - 45:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 45 - 50:  [36065]    XXXXXX  [23551]  [32346]  [78071]  
+Bucket 50 - 55:    XXXXXX    XXXXXX  [86456]    XXXXXX    XXXXXX  
+Bucket 55 - 60:    XXXXXX  [52705]    XXXXXX  [32336]    XXXXXX  
+Bucket 60 - 65:  [87692]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 65 - 70:    XXXXXX    XXXXXX    XXXXXX  [65461]    XXXXXX  
+Bucket 70 - 75:    XXXXXX    XXXXXX  [19124]  [6574]    XXXXXX  
+Bucket 75 - 80:    XXXXXX  [31137]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 80 - 85:    XXXXXX    XXXXXX  [52649]  [60006]  [27235]  
+Bucket 85 - 90:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 90 - 95:    XXXXXX    XXXXXX  [25999]    XXXXXX    XXXXXX  
+Bucket 95 - 100:    XXXXXX  [73987]  [82537]    XXXXXX    XXXXXX  
+Bucket 100 - 105:  [35612]    XXXXXX    XXXXXX    XXXXXX  [65536]  
+Bucket 105 - 110:    XXXXXX  [70772]  [31844]    XXXXXX    XXXXXX  
+Bucket 110 - 115:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 115 - 120:    XXXXXX  [32372]    XXXXXX    XXXXXX    XXXXXX  
+
+Load factor: 0.30
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 36
+Bucket size: 1
+Method: Multiplication, multiplication value 120
+Collision handling: Chaining
+Number of primary collisions:  30
+Number of secondary collisions: 0
+
+Bucket 0 - 5:  [30220][28360][55595][53155][41715][83200][52705][27235][36065]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 5 - 10:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 10 - 15:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 15 - 20:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 20 - 25:    XXXXXX    XXXXXX    XXXXXX    XXXXXX  [87058][39683][20558]  
+Bucket 25 - 30:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 30 - 35:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 35 - 40:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 40 - 45:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 45 - 50:    XXXXXX    XXXXXX  [23551]  [32346][78071][86456][32336][65461][60006][65536]    XXXXXX  
+Bucket 50 - 55:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 55 - 60:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 60 - 65:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 65 - 70:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 70 - 75:    XXXXXX    XXXXXX  [19124][6574][52649][25999][31844]    XXXXXX    XXXXXX  
+Bucket 75 - 80:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 80 - 85:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 85 - 90:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 90 - 95:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 95 - 100:    XXXXXX  [73987][82537][35612][70772][32372][99272][60002][87692][75347][31137][28252]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 100 - 105:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 105 - 110:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 110 - 115:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 115 - 120:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+
+Load factor: 0.30
+
+---------------------------------------
+0 values unable to be hashed
+
+
+
+Execution time for linear probing via multiplication scheme value 120: 1.30e-03 seconds
+
+Execution time for quadratic probing via multiplication scheme value 120: 1.19e-03 seconds
+
+Execution time for chaining via multiplication scheme value 120: 7.98e-04 seconds
+
+Execution time for entire multiplication scheme value 120: 3.36e-03 seconds
+
+.........................................................
+
+Execution time of entire program run: 1.03e+01 seconds
+
+************************************Next Run************************************
+Input size: 60
+Bucket size: 1
+Method: Division, mod 120
+Collision handling: Linear probing
+Number of primary collisions:  19
+Number of secondary collisions: 11
+
+Bucket 0 - 5:    XXXXXX    XXXXXX    XXXXXX  [90123]  [14763]  
+Bucket 5 - 10:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 10 - 15:    XXXXXX  [59531]  [89531]  [47893]  [11]  
+Bucket 15 - 20:  [33975]  [38531]    XXXXXX    XXXXXX  [22699]  
+Bucket 20 - 25:    XXXXXX  [12501]  [72501]  [42501]  [12503]  
+Bucket 25 - 30:  [22705]    XXXXXX    XXXXXX    XXXXXX  [99989]  
+Bucket 30 - 35:    XXXXXX  [57391]    XXXXXX    XXXXXX  [1234]  
+Bucket 35 - 40:    XXXXXX  [13956]  [35197]    XXXXXX  [22599]  
+Bucket 40 - 45:  [99999]  [80800]    XXXXXX  [84763]    XXXXXX  
+Bucket 45 - 50:  [18765]  [56565]    XXXXXX  [78888]    XXXXXX  
+Bucket 50 - 55:    XXXXXX  [39531]  [9531]    XXXXXX    XXXXXX  
+Bucket 55 - 60:    XXXXXX    XXXXXX    XXXXXX  [2698]  [2699]  
+Bucket 60 - 65:  [62699]  [78901]  [89102]  [19501]    XXXXXX  
+Bucket 65 - 70:  [54545]  [92345]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 70 - 75:    XXXXXX  [90911]  [27431]  [31753]  [78911]  
+Bucket 75 - 80:    XXXXXX    XXXXXX  [71717]    XXXXXX  [22999]  
+Bucket 80 - 85:  [62000]  [54321]    XXXXXX  [64763]    XXXXXX  
+Bucket 85 - 90:    XXXXXX    XXXXXX  [49287]    XXXXXX    XXXXXX  
+Bucket 90 - 95:  [67890]  [49531]  [79531]  [88531]    XXXXXX  
+Bucket 95 - 100:    XXXXXX    XXXXXX    XXXXXX    XXXXXX  [42699]  
+Bucket 100 - 105:    XXXXXX  [62501]  [92501]    XXXXXX    XXXXXX  
+Bucket 105 - 110:    XXXXXX    XXXXXX  [26987]    XXXXXX    XXXXXX  
+Bucket 110 - 115:    XXXXXX  [81111]    XXXXXX  [47993]    XXXXXX  
+Bucket 115 - 120:  [55555]  [67676]    XXXXXX  [358]  [37319]  
+
+Load factor: 0.50
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 60
+Bucket size: 1
+Method: Division, mod 120
+Collision handling: Quadratic probing
+Number of primary collisions:  20
+Number of secondary collisions: 19
+
+Bucket 0 - 5:    XXXXXX    XXXXXX    XXXXXX  [90123]  [14763]  
+Bucket 5 - 10:    XXXXXX  [88531]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 10 - 15:    XXXXXX  [59531]  [89531]  [47893]    XXXXXX  
+Bucket 15 - 20:  [33975]    XXXXXX    XXXXXX    XXXXXX  [22699]  
+Bucket 20 - 25:    XXXXXX  [12501]  [72501]  [12503]    XXXXXX  
+Bucket 25 - 30:  [42501]  [22705]    XXXXXX    XXXXXX  [99989]  
+Bucket 30 - 35:    XXXXXX  [57391]    XXXXXX    XXXXXX  [1234]  
+Bucket 35 - 40:    XXXXXX  [13956]  [35197]    XXXXXX  [22599]  
+Bucket 40 - 45:  [99999]  [80800]    XXXXXX  [84763]    XXXXXX  
+Bucket 45 - 50:  [18765]  [56565]    XXXXXX  [78888]    XXXXXX  
+Bucket 50 - 55:    XXXXXX  [39531]  [9531]    XXXXXX    XXXXXX  
+Bucket 55 - 60:    XXXXXX    XXXXXX    XXXXXX  [2698]  [2699]  
+Bucket 60 - 65:  [62699]  [78901]  [89102]    XXXXXX    XXXXXX  
+Bucket 65 - 70:  [19501]  [54545]  [11]    XXXXXX  [92345]  
+Bucket 70 - 75:    XXXXXX  [90911]  [27431]  [31753]    XXXXXX  
+Bucket 75 - 80:  [78911]    XXXXXX  [71717]    XXXXXX  [22999]  
+Bucket 80 - 85:  [62000]  [54321]    XXXXXX  [64763]    XXXXXX  
+Bucket 85 - 90:    XXXXXX    XXXXXX  [49287]    XXXXXX    XXXXXX  
+Bucket 90 - 95:  [67890]  [49531]  [79531]    XXXXXX    XXXXXX  
+Bucket 95 - 100:  [38531]    XXXXXX    XXXXXX    XXXXXX  [42699]  
+Bucket 100 - 105:    XXXXXX  [62501]  [92501]    XXXXXX    XXXXXX  
+Bucket 105 - 110:    XXXXXX    XXXXXX  [26987]    XXXXXX    XXXXXX  
+Bucket 110 - 115:    XXXXXX  [81111]    XXXXXX  [47993]    XXXXXX  
+Bucket 115 - 120:  [55555]  [67676]    XXXXXX  [358]  [37319]  
+
+Load factor: 0.50
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 60
+Bucket size: 1
+Method: Division, mod 120
+Collision handling: Chaining
+Number of primary collisions:  17
+Number of secondary collisions: 0
+
+Bucket 0 - 5:    XXXXXX    XXXXXX    XXXXXX  [90123][14763]    XXXXXX  
+Bucket 5 - 10:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 10 - 15:    XXXXXX  [59531][89531][11][38531]    XXXXXX  [47893]    XXXXXX  
+Bucket 15 - 20:  [33975]    XXXXXX    XXXXXX    XXXXXX  [22699]  
+Bucket 20 - 25:    XXXXXX  [12501][72501][42501]    XXXXXX  [12503]    XXXXXX  
+Bucket 25 - 30:  [22705]    XXXXXX    XXXXXX    XXXXXX  [99989]  
+Bucket 30 - 35:    XXXXXX  [57391]    XXXXXX    XXXXXX  [1234]  
+Bucket 35 - 40:    XXXXXX  [13956]  [35197]    XXXXXX  [22599][99999]  
+Bucket 40 - 45:  [80800]    XXXXXX    XXXXXX  [84763]    XXXXXX  
+Bucket 45 - 50:  [18765][56565]    XXXXXX    XXXXXX  [78888]    XXXXXX  
+Bucket 50 - 55:    XXXXXX  [39531][9531]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 55 - 60:    XXXXXX    XXXXXX    XXXXXX  [2698]  [2699][62699]  
+Bucket 60 - 65:    XXXXXX  [78901][19501]  [89102]    XXXXXX    XXXXXX  
+Bucket 65 - 70:  [54545][92345]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 70 - 75:    XXXXXX  [90911][27431][78911]    XXXXXX  [31753]    XXXXXX  
+Bucket 75 - 80:    XXXXXX    XXXXXX  [71717]    XXXXXX  [22999]  
+Bucket 80 - 85:  [62000]  [54321]    XXXXXX  [64763]    XXXXXX  
+Bucket 85 - 90:    XXXXXX    XXXXXX  [49287]    XXXXXX    XXXXXX  
+Bucket 90 - 95:  [67890]  [49531][79531][88531]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 95 - 100:    XXXXXX    XXXXXX    XXXXXX    XXXXXX  [42699]  
+Bucket 100 - 105:    XXXXXX  [62501][92501]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 105 - 110:    XXXXXX    XXXXXX  [26987]    XXXXXX    XXXXXX  
+Bucket 110 - 115:    XXXXXX  [81111]    XXXXXX  [47993]    XXXXXX  
+Bucket 115 - 120:  [55555]  [67676]    XXXXXX  [358]  [37319]  
+
+Load factor: 0.50
+
+---------------------------------------
+0 values unable to be hashed
+
+
+
+Execution time for linear probing via division scheme mod 120: 1.29e-03 seconds
+
+Execution time for quadratic probing via division scheme mod 120: 8.08e-04 seconds
+
+Execution time for chaining via division scheme mod 120: 6.90e-04 seconds
+
+Execution time for entire division scheme mod 120: 2.85e-03 seconds
+
+.........................................................
+
+Execution time of entire program run: 8.32e+00 seconds
+
+************************************Next Run************************************
+Input size: 60
+Bucket size: 1
+Method: Division, mod 113
+Collision handling: Linear probing
+Number of primary collisions:  17
+Number of secondary collisions: 13
+
+Bucket 0 - 5:  [31753]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 5 - 10:  [80800]    XXXXXX  [18765]    XXXXXX    XXXXXX  
+Bucket 10 - 15:    XXXXXX  [11]  [62501]  [84763]  [42501]  
+Bucket 15 - 20:  [78888]  [64763]    XXXXXX    XXXXXX  [49287]  
+Bucket 20 - 25:  [358]    XXXXXX    XXXXXX    XXXXXX  [92345]  
+Bucket 25 - 30:    XXXXXX    XXXXXX  [78901]    XXXXXX  [37319]  
+Bucket 30 - 35:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 35 - 40:  [89531]    XXXXXX  [49531]  [78911]  [9531]  
+Bucket 40 - 45:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 45 - 50:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 50 - 55:    XXXXXX    XXXXXX  [88531]    XXXXXX  [35197]  
+Bucket 55 - 60:    XXXXXX    XXXXXX  [13956]  [89102]  [90911]  
+Bucket 60 - 65:  [22999]    XXXXXX  [90123]    XXXXXX    XXXXXX  
+Bucket 65 - 70:  [56565]  [19501]  [92501]  [72501]    XXXXXX  
+Bucket 70 - 75:    XXXXXX  [12501]  [55555]  [14763]  [12503]  
+Bucket 75 - 80:  [33975]  [71717]  [62000]    XXXXXX  [54545]  
+Bucket 80 - 85:    XXXXXX  [54321]  [47993]    XXXXXX    XXXXXX  
+Bucket 85 - 90:  [27431]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 90 - 95:  [67890]  [81111]  [79531]  [59531]  [39531]  
+Bucket 95 - 100:  [47893]  [26987]  [62699]  [42699]  [2698]  
+Bucket 100 - 105:  [2699]  [22699]  [67676]  [57391]  [1234]  
+Bucket 105 - 110:  [99989]  [22705]  [99999]    XXXXXX    XXXXXX  
+Bucket 110 - 115:    XXXXXX  [38531]  [22599]    XXXXXX    XXXXXX  
+Bucket 115 - 120:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+
+Load factor: 0.50
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 60
+Bucket size: 1
+Method: Division, mod 113
+Collision handling: Quadratic probing
+Number of primary collisions:  16
+Number of secondary collisions: 10
+
+Bucket 0 - 5:  [31753]    XXXXXX    XXXXXX    XXXXXX  [99989]  
+Bucket 5 - 10:  [80800]    XXXXXX  [18765]    XXXXXX    XXXXXX  
+Bucket 10 - 15:    XXXXXX  [11]  [62501]  [84763]  [42501]  
+Bucket 15 - 20:  [78888]    XXXXXX    XXXXXX  [64763]  [49287]  
+Bucket 20 - 25:  [358]    XXXXXX    XXXXXX    XXXXXX  [92345]  
+Bucket 25 - 30:    XXXXXX    XXXXXX  [78901]    XXXXXX  [37319]  
+Bucket 30 - 35:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 35 - 40:  [89531]  [26987]  [49531]  [78911]  [9531]  
+Bucket 40 - 45:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 45 - 50:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 50 - 55:    XXXXXX    XXXXXX  [88531]    XXXXXX  [35197]  
+Bucket 55 - 60:    XXXXXX    XXXXXX  [13956]  [89102]  [90911]  
+Bucket 60 - 65:  [22999]    XXXXXX  [90123]    XXXXXX    XXXXXX  
+Bucket 65 - 70:  [56565]  [19501]  [92501]  [72501]    XXXXXX  
+Bucket 70 - 75:    XXXXXX  [12501]  [55555]  [14763]  [12503]  
+Bucket 75 - 80:  [33975]  [71717]  [62000]    XXXXXX  [54545]  
+Bucket 80 - 85:    XXXXXX  [54321]  [47993]    XXXXXX    XXXXXX  
+Bucket 85 - 90:  [27431]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 90 - 95:  [67890]  [81111]  [79531]  [59531]  [39531]  
+Bucket 95 - 100:  [47893]    XXXXXX  [62699]  [42699]  [2698]  
+Bucket 100 - 105:  [2699]  [57391]  [67676]  [22699]  [1234]  
+Bucket 105 - 110:  [22705]    XXXXXX  [99999]    XXXXXX    XXXXXX  
+Bucket 110 - 115:    XXXXXX  [38531]  [22599]    XXXXXX    XXXXXX  
+Bucket 115 - 120:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+
+Load factor: 0.50
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 60
+Bucket size: 1
+Method: Division, mod 113
+Collision handling: Chaining
+Number of primary collisions:  14
+Number of secondary collisions: 0
+
+Bucket 0 - 5:  [31753]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 5 - 10:  [80800]    XXXXXX  [18765]    XXXXXX    XXXXXX  
+Bucket 10 - 15:    XXXXXX  [11]  [62501]  [84763][42501]  [78888][64763]  
+Bucket 15 - 20:    XXXXXX    XXXXXX    XXXXXX    XXXXXX  [49287][358]  
+Bucket 20 - 25:    XXXXXX    XXXXXX    XXXXXX    XXXXXX  [92345]  
+Bucket 25 - 30:    XXXXXX    XXXXXX  [78901]    XXXXXX  [37319]  
+Bucket 30 - 35:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 35 - 40:  [89531]    XXXXXX  [49531][78911]    XXXXXX  [9531]  
+Bucket 40 - 45:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 45 - 50:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 50 - 55:    XXXXXX    XXXXXX  [88531]    XXXXXX  [35197]  
+Bucket 55 - 60:    XXXXXX    XXXXXX  [13956]  [89102]  [90911]  
+Bucket 60 - 65:  [22999]    XXXXXX  [90123]    XXXXXX    XXXXXX  
+Bucket 65 - 70:  [56565][19501]    XXXXXX  [92501]  [72501]    XXXXXX  
+Bucket 70 - 75:    XXXXXX  [12501]  [55555]  [14763][12503]    XXXXXX  
+Bucket 75 - 80:  [33975][71717]  [62000]    XXXXXX    XXXXXX  [54545]  
+Bucket 80 - 85:    XXXXXX  [54321][47993]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 85 - 90:  [27431]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 90 - 95:  [67890][81111]    XXXXXX  [79531]  [59531][26987]  [39531][47893]  
+Bucket 95 - 100:    XXXXXX    XXXXXX  [62699][99989]  [42699]  [2698][22699]  
+Bucket 100 - 105:  [2699][57391]    XXXXXX  [67676]    XXXXXX  [1234]  
+Bucket 105 - 110:  [22705]    XXXXXX  [99999]    XXXXXX    XXXXXX  
+Bucket 110 - 115:    XXXXXX  [38531]  [22599]    XXXXXX    XXXXXX  
+Bucket 115 - 120:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+
+Load factor: 0.50
+
+---------------------------------------
+0 values unable to be hashed
+
+
+
+Execution time for linear probing via division scheme mod 113: 1.33e-03 seconds
+
+Execution time for quadratic probing via division scheme mod 113: 1.09e-03 seconds
+
+Execution time for chaining via division scheme mod 113: 8.40e-04 seconds
+
+Execution time for entire division scheme mod 113: 3.38e-03 seconds
+
+.........................................................
+
+Execution time of entire program run: 9.79e+00 seconds
+
+************************************Next Run************************************
+Input size: 60
+Bucket size: 3
+Method: Division, mod 41
+Collision handling: Linear probing
+Number of primary collisions:  3
+Number of secondary collisions: 0
+
+Bucket 1 - 3:  55555  99999  59531  
+Bucket 4 - 6:  XXXXXX  XXXXXX  XXXXXX
+Bucket 7 - 9:  27431  XXXXXX  XXXXXX
+Bucket 10 - 12:  49531  14763  XXXXXX
+Bucket 13 - 15:  1234  78888  XXXXXX
+Bucket 16 - 18:  90123  92501  47893  
+Bucket 19 - 21:  49287  XXXXXX  XXXXXX
+Bucket 22 - 24:  39531  XXXXXX  XXXXXX
+Bucket 25 - 27:  22599  71717  62000  
+Bucket 28 - 30:  37319  89102  26987  
+Bucket 31 - 33:  62699  XXXXXX  XXXXXX
+Bucket 34 - 36:  11  XXXXXX  XXXXXX
+Bucket 37 - 39:  88531  XXXXXX  XXXXXX
+Bucket 40 - 42:  72501  81111  92345  
+Bucket 43 - 45:  90911  XXXXXX  XXXXXX
+Bucket 46 - 48:  54545  XXXXXX  XXXXXX
+Bucket 49 - 51:  84763  13956  XXXXXX
+Bucket 52 - 54:  62501  78901  XXXXXX
+Bucket 55 - 57:  42699  XXXXXX  XXXXXX
+Bucket 58 - 60:  31753  9531  35197  
+Bucket 61 - 63:  XXXXXX  XXXXXX  XXXXXX
+Bucket 64 - 66:  XXXXXX  XXXXXX  XXXXXX
+Bucket 67 - 69:  XXXXXX  XXXXXX  XXXXXX
+Bucket 70 - 72:  47993  XXXXXX  XXXXXX
+Bucket 73 - 75:  64763  XXXXXX  XXXXXX
+Bucket 76 - 78:  42501  XXXXXX  XXXXXX
+Bucket 79 - 81:  22699  67676  56565  
+Bucket 82 - 84:  33975  19501  78911  
+Bucket 85 - 87:  18765  89531  XXXXXX
+Bucket 88 - 90:  XXXXXX  XXXXXX  XXXXXX
+Bucket 91 - 93:  80800  358  XXXXXX
+Bucket 94 - 96:  99989  XXXXXX  XXXXXX
+Bucket 97 - 99:  79531  57391  22705  
+Bucket 100 - 102:  2698  38531  XXXXXX
+Bucket 103 - 105:  2699  XXXXXX  XXXXXX
+Bucket 106 - 108:  67890  XXXXXX  XXXXXX
+Bucket 109 - 111:  XXXXXX  XXXXXX  XXXXXX
+Bucket 112 - 114:  12501  54321  XXXXXX
+Bucket 115 - 117:  XXXXXX  XXXXXX  XXXXXX
+Bucket 118 - 120:  22999  12503  XXXXXX
+
+Load factor: 0.50
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 60
+Bucket size: 3
+Method: Division, mod 41
+Collision handling: Quadratic probing
+Number of primary collisions:  3
+Number of secondary collisions: 3
+
+Bucket 1 - 3:  55555  99999  XXXXXX
+Bucket 4 - 6:  XXXXXX  XXXXXX  XXXXXX
+Bucket 7 - 9:  27431  XXXXXX  XXXXXX
+Bucket 10 - 12:  49531  14763  XXXXXX
+Bucket 13 - 15:  1234  78888  XXXXXX
+Bucket 16 - 18:  90123  92501  47893  
+Bucket 19 - 21:  49287  XXXXXX  XXXXXX
+Bucket 22 - 24:  39531  XXXXXX  XXXXXX
+Bucket 25 - 27:  22599  71717  62000  
+Bucket 28 - 30:  37319  89102  26987  
+Bucket 31 - 33:  62699  XXXXXX  XXXXXX
+Bucket 34 - 36:  11  XXXXXX  XXXXXX
+Bucket 37 - 39:  88531  XXXXXX  XXXXXX
+Bucket 40 - 42:  72501  81111  92345  
+Bucket 43 - 45:  90911  XXXXXX  XXXXXX
+Bucket 46 - 48:  54545  XXXXXX  XXXXXX
+Bucket 49 - 51:  84763  13956  XXXXXX
+Bucket 52 - 54:  62501  78901  XXXXXX
+Bucket 55 - 57:  42699  XXXXXX  XXXXXX
+Bucket 58 - 60:  31753  9531  35197  
+Bucket 61 - 63:  XXXXXX  XXXXXX  XXXXXX
+Bucket 64 - 66:  XXXXXX  XXXXXX  XXXXXX
+Bucket 67 - 69:  XXXXXX  XXXXXX  XXXXXX
+Bucket 70 - 72:  47993  XXXXXX  XXXXXX
+Bucket 73 - 75:  64763  XXXXXX  XXXXXX
+Bucket 76 - 78:  42501  59531  XXXXXX
+Bucket 79 - 81:  22699  67676  56565  
+Bucket 82 - 84:  33975  19501  78911  
+Bucket 85 - 87:  18765  89531  XXXXXX
+Bucket 88 - 90:  XXXXXX  XXXXXX  XXXXXX
+Bucket 91 - 93:  80800  358  XXXXXX
+Bucket 94 - 96:  99989  XXXXXX  XXXXXX
+Bucket 97 - 99:  79531  57391  22705  
+Bucket 100 - 102:  2698  38531  XXXXXX
+Bucket 103 - 105:  2699  XXXXXX  XXXXXX
+Bucket 106 - 108:  67890  XXXXXX  XXXXXX
+Bucket 109 - 111:  XXXXXX  XXXXXX  XXXXXX
+Bucket 112 - 114:  12501  54321  XXXXXX
+Bucket 115 - 117:  XXXXXX  XXXXXX  XXXXXX
+Bucket 118 - 120:  22999  12503  XXXXXX
+
+Load factor: 0.50
+
+---------------------------------------
+0 values unable to be hashed
+
+
+
+Execution time of linear probing via division scheme mod 41 when bucket size = 3: 1.65e-03 seconds
+
+Execution time of quadratic probing via division scheme mod 41 when bucket size = 3: 1.16e-03 seconds
+
+Execution time for entire division scheme mod 41 when bucket size = 3: 2.85e-03 seconds
+
+.........................................................
+
+Execution time of entire program run: 5.97e+00 seconds
+
+************************************Next Run************************************
+Input size: 60
+Bucket size: 1
+Method: Multiplication, multiplication value 120
+Collision handling: Linear probing
+Number of primary collisions:  55
+Number of secondary collisions: 376
+
+Bucket 0 - 5:  [55555]  [33975]  [80800]  [18765]  [56565]  
+Bucket 5 - 10:  [67890]  [22705]  [54545]  [62000]  [92345]  
+Bucket 10 - 15:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 15 - 20:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 20 - 25:    XXXXXX    XXXXXX    XXXXXX    XXXXXX  [84763]  
+Bucket 25 - 30:  [2698]  [31753]  [90123]  [78888]  [47893]  
+Bucket 30 - 35:  [14763]  [64763]  [12503]  [47993]  [358]  
+Bucket 35 - 40:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 40 - 45:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 45 - 50:    XXXXXX    XXXXXX    XXXXXX  [12501]  [72501]  
+Bucket 50 - 55:  [62501]  [42501]  [90911]  [78901]  [67676]  
+Bucket 55 - 60:  [59531]  [13956]  [39531]  [49531]  [89531]  
+Bucket 60 - 65:  [81111]  [79531]  [27431]  [92501]  [9531]  
+Bucket 65 - 70:  [57391]  [54321]  [11]  [19501]  [38531]  
+Bucket 70 - 75:  [78911]  [88531]  [22599]  [99999]  [42699]  
+Bucket 75 - 80:  [2699]  [22699]  [1234]  [22999]  [37319]  
+Bucket 80 - 85:  [62699]  [99989]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 85 - 90:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 90 - 95:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 95 - 100:    XXXXXX  [35197]  [71717]  [89102]  [49287]  
+Bucket 100 - 105:  [26987]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 105 - 110:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 110 - 115:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 115 - 120:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+
+Load factor: 0.50
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 60
+Bucket size: 1
+Method: Multiplication, multiplication value 120
+Collision handling: Quadratic probing
+Number of primary collisions:  55
+Number of secondary collisions: 546
+
+Bucket 0 - 5:  [55555]  [33975]    XXXXXX    XXXXXX  [80800]  
+Bucket 5 - 10:    XXXXXX    XXXXXX    XXXXXX  [89531]    XXXXXX  
+Bucket 10 - 15:  [18765]    XXXXXX  [59531]    XXXXXX    XXXXXX  
+Bucket 15 - 20:    XXXXXX    XXXXXX    XXXXXX  [38531]  [27431]  
+Bucket 20 - 25:  [56565]    XXXXXX    XXXXXX  [49531]  [84763]  
+Bucket 25 - 30:  [2698]    XXXXXX    XXXXXX  [31753]  [88531]  
+Bucket 30 - 35:    XXXXXX    XXXXXX  [92501]  [358]  [90123]  
+Bucket 35 - 40:  [67890]  [22999]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 40 - 45:    XXXXXX    XXXXXX    XXXXXX    XXXXXX  [78888]  
+Bucket 45 - 50:  [54545]  [62000]  [99989]  [12501]  [72501]  
+Bucket 50 - 55:    XXXXXX    XXXXXX  [62501]    XXXXXX    XXXXXX  
+Bucket 55 - 60:    XXXXXX  [22705]  [81111]  [42501]  [47893]  
+Bucket 60 - 65:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 65 - 70:    XXXXXX    XXXXXX  [78911]  [90911]  [64763]  
+Bucket 70 - 75:  [12503]    XXXXXX  [22599]  [99999]    XXXXXX  
+Bucket 75 - 80:    XXXXXX  [42699]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 80 - 85:  [14763]    XXXXXX  [2699]  [78901]  [9531]  
+Bucket 85 - 90:    XXXXXX    XXXXXX    XXXXXX  [11]    XXXXXX  
+Bucket 90 - 95:    XXXXXX    XXXXXX  [22699]  [13956]  [39531]  
+Bucket 95 - 100:  [92345]  [35197]  [71717]    XXXXXX    XXXXXX  
+Bucket 100 - 105:  [89102]    XXXXXX  [57391]  [54321]  [67676]  
+Bucket 105 - 110:    XXXXXX  [49287]  [1234]  [79531]    XXXXXX  
+Bucket 110 - 115:    XXXXXX    XXXXXX    XXXXXX  [19501]    XXXXXX  
+Bucket 115 - 120:    XXXXXX  [26987]  [37319]  [62699]  [47993]  
+
+Load factor: 0.50
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 60
+Bucket size: 1
+Method: Multiplication, multiplication value 120
+Collision handling: Chaining
+Number of primary collisions:  55
+Number of secondary collisions: 0
+
+Bucket 0 - 5:  [55555][33975][80800][18765][56565][67890][22705][54545][62000][92345]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 5 - 10:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 10 - 15:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 15 - 20:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 20 - 25:    XXXXXX    XXXXXX    XXXXXX    XXXXXX  [84763][2698][31753][90123][78888][47893][14763][64763][12503][47993][358]  
+Bucket 25 - 30:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 30 - 35:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 35 - 40:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 40 - 45:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 45 - 50:    XXXXXX    XXXXXX    XXXXXX  [12501][72501][62501][42501][90911][78901][67676][59531][13956][39531][49531][89531][81111][79531][27431][92501][9531][57391][54321][11][19501][38531][78911][88531]    XXXXXX  
+Bucket 50 - 55:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 55 - 60:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 60 - 65:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 65 - 70:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 70 - 75:    XXXXXX    XXXXXX  [22599][99999][42699][2699][22699][1234][22999][37319][62699][99989]    XXXXXX    XXXXXX  
+Bucket 75 - 80:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 80 - 85:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 85 - 90:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 90 - 95:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 95 - 100:    XXXXXX  [35197][71717][89102][49287][26987]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 100 - 105:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 105 - 110:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 110 - 115:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 115 - 120:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+
+Load factor: 0.50
+
+---------------------------------------
+0 values unable to be hashed
+
+
+
+Execution time for linear probing via multiplication scheme value 120: 2.22e-03 seconds
+
+Execution time for quadratic probing via multiplication scheme value 120: 1.46e-03 seconds
+
+Execution time for chaining via multiplication scheme value 120: 7.28e-04 seconds
+
+Execution time for entire multiplication scheme value 120: 4.47e-03 seconds
+
+.........................................................
+
+Execution time of entire program run: 7.62e+00 seconds
+
+************************************Next Run************************************
+Input size: 84
+Bucket size: 1
+Method: Division, mod 120
+Collision handling: Linear probing
+Number of primary collisions:  24
+Number of secondary collisions: 49
+
+Bucket 0 - 5:  [43435]  [78601]  [16442]  [38522]  [87364]  
+Bucket 5 - 10:  [77885]  [841]  [53287]    XXXXXX  [61569]  
+Bucket 10 - 15:  [45850]  [25091]  [70692]  [63131]  [56774]  
+Bucket 15 - 20:  [4449]  [44776]    XXXXXX  [39378]  [15618]  
+Bucket 20 - 25:  [35180]  [99141]  [12382]    XXXXXX  [16104]  
+Bucket 25 - 30:  [3265]  [47666]  [1466]  [3148]  [84266]  
+Bucket 30 - 35:    XXXXXX    XXXXXX    XXXXXX  [40353]  [65314]  
+Bucket 35 - 40:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 40 - 45:    XXXXXX  [7721]    XXXXXX  [61123]    XXXXXX  
+Bucket 45 - 50:  [56445]  [50926]  [52005]  [37487]  [56445]  
+Bucket 50 - 55:  [17446]  [41088]  [62211]  [24773]  [88134]  
+Bucket 55 - 60:  [645]    XXXXXX  [40137]    XXXXXX  [76619]  
+Bucket 60 - 65:  [53220]    XXXXXX    XXXXXX  [12183]  [96064]  
+Bucket 65 - 70:    XXXXXX  [20706]    XXXXXX  [1628]    XXXXXX  
+Bucket 70 - 75:    XXXXXX  [87311]  [21672]    XXXXXX    XXXXXX  
+Bucket 75 - 80:  [43635]    XXXXXX  [72077]  [79158]    XXXXXX  
+Bucket 80 - 85:  [74240]  [93201]  [92122]  [3922]    XXXXXX  
+Bucket 85 - 90:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 90 - 95:  [41970]  [94171]  [9570]  [3453]  [43052]  
+Bucket 95 - 100:  [63093]  [87332]    XXXXXX  [96818]  [71979]  
+Bucket 100 - 105:  [17260]    XXXXXX  [46062]  [19663]  [34784]  
+Bucket 105 - 110:  [71865]  [59386]  [90947]  [64545]  [80629]  
+Bucket 110 - 115:  [85910]  [60945]    XXXXXX  [27953]    XXXXXX  
+Bucket 115 - 120:  [20155]  [88556]  [96116]  [95158]  [44396]  
+
+Load factor: 0.70
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 84
+Bucket size: 1
+Method: Division, mod 120
+Collision handling: Quadratic probing
+Number of primary collisions:  22
+Number of secondary collisions: 30
+
+Bucket 0 - 5:  [44396]  [78601]  [16442]  [38522]  [87364]  
+Bucket 5 - 10:  [60945]  [77885]  [53287]    XXXXXX  [61569]  
+Bucket 10 - 15:  [45850]  [25091]  [70692]  [4449]  [56774]  
+Bucket 15 - 20:  [63131]  [44776]    XXXXXX  [39378]  [15618]  
+Bucket 20 - 25:  [35180]  [99141]  [12382]    XXXXXX  [16104]  
+Bucket 25 - 30:  [3265]  [47666]  [1466]  [3148]    XXXXXX  
+Bucket 30 - 35:  [84266]    XXXXXX    XXXXXX  [40353]  [65314]  
+Bucket 35 - 40:    XXXXXX  [841]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 40 - 45:    XXXXXX  [7721]    XXXXXX  [61123]    XXXXXX  
+Bucket 45 - 50:  [56445]  [50926]  [37487]  [41088]  [52005]  
+Bucket 50 - 55:  [17446]  [62211]    XXXXXX  [24773]  [88134]  
+Bucket 55 - 60:  [56445]    XXXXXX  [40137]    XXXXXX  [76619]  
+Bucket 60 - 65:  [53220]    XXXXXX    XXXXXX  [12183]  [96064]  
+Bucket 65 - 70:  [645]  [20706]    XXXXXX  [1628]    XXXXXX  
+Bucket 70 - 75:    XXXXXX  [87311]  [21672]    XXXXXX    XXXXXX  
+Bucket 75 - 80:  [43635]    XXXXXX  [72077]  [79158]  [43435]  
+Bucket 80 - 85:  [74240]  [93201]  [92122]  [3922]    XXXXXX  
+Bucket 85 - 90:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 90 - 95:  [41970]  [94171]  [43052]  [3453]  [9570]  
+Bucket 95 - 100:    XXXXXX  [87332]  [63093]  [96818]  [71979]  
+Bucket 100 - 105:  [17260]    XXXXXX  [46062]  [19663]  [34784]  
+Bucket 105 - 110:  [71865]  [59386]  [90947]    XXXXXX  [80629]  
+Bucket 110 - 115:  [85910]    XXXXXX    XXXXXX  [27953]    XXXXXX  
+Bucket 115 - 120:  [64545]  [88556]  [96116]  [95158]  [20155]  
+
+Load factor: 0.70
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 84
+Bucket size: 1
+Method: Division, mod 120
+Collision handling: Chaining
+Number of primary collisions:  20
+Number of secondary collisions: 0
+
+Bucket 0 - 5:    XXXXXX  [78601][841]  [16442][38522]    XXXXXX  [87364]  
+Bucket 5 - 10:  [77885]    XXXXXX  [53287]    XXXXXX  [61569][4449]  
+Bucket 10 - 15:  [45850]  [25091][63131]  [70692]    XXXXXX  [56774]  
+Bucket 15 - 20:    XXXXXX  [44776]    XXXXXX  [39378][15618]    XXXXXX  
+Bucket 20 - 25:  [35180]  [99141]  [12382]    XXXXXX  [16104]  
+Bucket 25 - 30:  [3265]  [47666][1466][84266]    XXXXXX  [3148]    XXXXXX  
+Bucket 30 - 35:    XXXXXX    XXXXXX    XXXXXX  [40353]  [65314]  
+Bucket 35 - 40:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 40 - 45:    XXXXXX  [7721]    XXXXXX  [61123]    XXXXXX  
+Bucket 45 - 50:  [56445][52005][56445][645]  [50926][17446]  [37487]  [41088]    XXXXXX  
+Bucket 50 - 55:    XXXXXX  [62211]    XXXXXX  [24773]  [88134]  
+Bucket 55 - 60:    XXXXXX    XXXXXX  [40137]    XXXXXX  [76619]  
+Bucket 60 - 65:  [53220]    XXXXXX    XXXXXX  [12183]  [96064]  
+Bucket 65 - 70:    XXXXXX  [20706]    XXXXXX  [1628]    XXXXXX  
+Bucket 70 - 75:    XXXXXX  [87311]  [21672]    XXXXXX    XXXXXX  
+Bucket 75 - 80:  [43635]    XXXXXX  [72077]  [79158]    XXXXXX  
+Bucket 80 - 85:  [74240]  [93201]  [92122][3922]    XXXXXX    XXXXXX  
+Bucket 85 - 90:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 90 - 95:  [41970][9570]  [94171]  [43052][87332]  [3453][63093]    XXXXXX  
+Bucket 95 - 100:    XXXXXX    XXXXXX    XXXXXX  [96818]  [71979]  
+Bucket 100 - 105:  [17260]    XXXXXX  [46062]  [19663]  [34784]  
+Bucket 105 - 110:  [71865][64545][60945]  [59386]  [90947]    XXXXXX  [80629]  
+Bucket 110 - 115:  [85910]    XXXXXX    XXXXXX  [27953]    XXXXXX  
+Bucket 115 - 120:  [20155][43435]  [88556][96116][44396]    XXXXXX  [95158]    XXXXXX  
+
+Load factor: 0.70
+
+---------------------------------------
+0 values unable to be hashed
+
+
+
+Execution time for linear probing via division scheme mod 120: 1.39e-03 seconds
+
+Execution time for quadratic probing via division scheme mod 120: 1.81e-03 seconds
+
+Execution time for chaining via division scheme mod 120: 1.09e-03 seconds
+
+Execution time for entire division scheme mod 120: 4.42e-03 seconds
+
+.........................................................
+
+Execution time of entire program run: 6.11e+00 seconds
+
+************************************Next Run************************************
+Input size: 84
+Bucket size: 1
+Method: Division, mod 113
+Collision handling: Linear probing
+Number of primary collisions:  33
+Number of secondary collisions: 58
+
+Bucket 0 - 5:  [65314]  [19663]  [43052]  [1466]  [74240]  
+Bucket 5 - 10:  [76619]  [25091]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 10 - 15:    XXXXXX    XXXXXX  [95158]  [40353]  [96064]  
+Bucket 15 - 20:  [87364]    XXXXXX  [43635]    XXXXXX    XXXXXX  
+Bucket 20 - 25:    XXXXXX    XXXXXX  [64545]  [40137]  [15618]  
+Bucket 25 - 30:  [52005]  [24773]  [92122]  [77885]  [44776]  
+Bucket 30 - 35:  [85910]  [20706]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 35 - 40:    XXXXXX    XXXXXX  [35180]  [60945]  [7721]  
+Bucket 40 - 45:  [99141]  [20155]  [94171]  [4449]  [17446]  
+Bucket 45 - 50:  [63093]  [1628]  [41970]  [56774]  [43435]  
+Bucket 50 - 55:  [841]  [27953]    XXXXXX    XXXXXX  [39378]  
+Bucket 55 - 60:    XXXXXX    XXXXXX  [16442]  [79158]  [16104]  
+Bucket 60 - 65:  [56445]  [59386]  [80629]  [56445]  [53287]  
+Bucket 65 - 70:  [3453]  [96116]  [78601]  [70692]  [12382]  
+Bucket 70 - 75:  [41088]  [46062]  [62211]    XXXXXX    XXXXXX  
+Bucket 75 - 80:  [87311]  [50926]  [88556]  [63131]  [9570]  
+Bucket 80 - 85:  [645]  [84266]  [3922]    XXXXXX  [17260]  
+Bucket 85 - 90:  [45850]  [37487]    XXXXXX    XXXXXX  [21672]  
+Bucket 90 - 95:  [96818]  [93201]  [12183]  [34784]  [47666]  
+Bucket 95 - 100:  [90947]  [72077]  [3148]  [61569]  [87332]  
+Bucket 100 - 105:  [44396]  [3265]  [38522]  [61123]    XXXXXX  
+Bucket 105 - 110:    XXXXXX    XXXXXX  [88134]    XXXXXX    XXXXXX  
+Bucket 110 - 115:  [71865]  [53220]  [71979]    XXXXXX    XXXXXX  
+Bucket 115 - 120:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+
+Load factor: 0.70
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 84
+Bucket size: 1
+Method: Division, mod 113
+Collision handling: Quadratic probing
+Number of primary collisions:  31
+Number of secondary collisions: 32
+
+Bucket 0 - 5:  [65314]  [56445]  [19663]  [43052]    XXXXXX  
+Bucket 5 - 10:  [76619]  [25091]  [1466]    XXXXXX  [74240]  
+Bucket 10 - 15:    XXXXXX    XXXXXX  [95158]  [40353]  [96064]  
+Bucket 15 - 20:  [87364]    XXXXXX  [43635]    XXXXXX    XXXXXX  
+Bucket 20 - 25:    XXXXXX    XXXXXX  [64545]  [40137]  [15618]  
+Bucket 25 - 30:  [52005]  [24773]  [92122]  [77885]  [44776]  
+Bucket 30 - 35:  [85910]  [20706]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 35 - 40:    XXXXXX    XXXXXX  [35180]  [60945]  [63093]  
+Bucket 40 - 45:  [99141]  [7721]  [94171]  [4449]  [17446]  
+Bucket 45 - 50:  [20155]  [1628]  [41970]  [56774]    XXXXXX  
+Bucket 50 - 55:  [841]  [3922]  [27953]  [43435]  [39378]  
+Bucket 55 - 60:    XXXXXX    XXXXXX  [16442]  [79158]  [16104]  
+Bucket 60 - 65:  [80629]  [59386]  [56445]  [3453]  [53287]  
+Bucket 65 - 70:  [12382]  [96116]  [78601]  [70692]  [41088]  
+Bucket 70 - 75:    XXXXXX  [46062]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 75 - 80:  [87311]  [50926]  [88556]  [63131]  [9570]  
+Bucket 80 - 85:  [645]  [62211]  [84266]    XXXXXX  [17260]  
+Bucket 85 - 90:  [45850]    XXXXXX    XXXXXX  [37487]  [21672]  
+Bucket 90 - 95:  [96818]    XXXXXX  [12183]  [34784]  [47666]  
+Bucket 95 - 100:  [90947]  [72077]  [3148]  [61569]  [93201]  
+Bucket 100 - 105:  [44396]  [3265]  [38522]  [61123]    XXXXXX  
+Bucket 105 - 110:    XXXXXX  [87332]  [88134]    XXXXXX    XXXXXX  
+Bucket 110 - 115:  [71865]  [53220]  [71979]    XXXXXX    XXXXXX  
+Bucket 115 - 120:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+
+Load factor: 0.70
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 84
+Bucket size: 1
+Method: Division, mod 113
+Collision handling: Chaining
+Number of primary collisions:  23
+Number of secondary collisions: 0
+
+Bucket 0 - 5:  [65314]  [19663]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 5 - 10:  [76619][25091]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 10 - 15:    XXXXXX    XXXXXX  [95158][40353]    XXXXXX  [96064]  
+Bucket 15 - 20:  [87364]    XXXXXX  [43635]    XXXXXX    XXXXXX  
+Bucket 20 - 25:    XXXXXX    XXXXXX  [64545][40137]    XXXXXX  [15618]  
+Bucket 25 - 30:  [52005]  [24773]  [92122][20706]  [77885][44776]    XXXXXX  
+Bucket 30 - 35:  [85910]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 35 - 40:    XXXXXX    XXXXXX  [35180][7721]  [60945]  [63093]  
+Bucket 40 - 45:  [99141]  [20155]  [94171][4449][27953]  [43435]  [17446]  
+Bucket 45 - 50:    XXXXXX  [1628]  [41970]  [56774]    XXXXXX  
+Bucket 50 - 55:  [841]    XXXXXX    XXXXXX    XXXXXX  [39378]  
+Bucket 55 - 60:    XXXXXX    XXXXXX  [16442]  [79158][16104][56445][56445]    XXXXXX  
+Bucket 60 - 65:  [80629]  [59386][62211]    XXXXXX  [3453]  [53287]  
+Bucket 65 - 70:  [12382]  [96116][78601]  [70692]    XXXXXX  [41088]  
+Bucket 70 - 75:    XXXXXX  [46062]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 75 - 80:  [87311]  [50926]  [88556][63131]  [9570]    XXXXXX  
+Bucket 80 - 85:  [645][3922]  [84266]    XXXXXX    XXXXXX  [17260][37487]  
+Bucket 85 - 90:  [45850]    XXXXXX    XXXXXX    XXXXXX  [21672][93201]  
+Bucket 90 - 95:  [96818]    XXXXXX  [12183]  [34784][47666]    XXXXXX  
+Bucket 95 - 100:  [90947]  [72077][87332]  [3148][61569]    XXXXXX    XXXXXX  
+Bucket 100 - 105:  [44396]  [3265]  [38522]  [61123]    XXXXXX  
+Bucket 105 - 110:    XXXXXX    XXXXXX  [88134]    XXXXXX    XXXXXX  
+Bucket 110 - 115:  [71865][53220][1466]  [71979]  [43052][74240]    XXXXXX    XXXXXX  
+Bucket 115 - 120:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+
+Load factor: 0.70
+
+---------------------------------------
+0 values unable to be hashed
+
+
+
+Execution time for linear probing via division scheme mod 113: 1.94e-03 seconds
+
+Execution time for quadratic probing via division scheme mod 113: 9.11e-04 seconds
+
+Execution time for chaining via division scheme mod 113: 7.28e-04 seconds
+
+Execution time for entire division scheme mod 113: 3.67e-03 seconds
+
+.........................................................
+
+Execution time of entire program run: 7.96e+00 seconds
+
+************************************Next Run************************************
+Input size: 84
+Bucket size: 3
+Method: Division, mod 41
+Collision handling: Linear probing
+Number of primary collisions:  8
+Number of secondary collisions: 4
+
+Bucket 1 - 3:  17260  25091  72077  
+Bucket 4 - 6:  65314  16442  12382  
+Bucket 7 - 9:  53220  35180  43052  
+Bucket 10 - 12:  99141  20706  96064  
+Bucket 13 - 15:  78601  50926  44776  
+Bucket 16 - 18:  87332  XXXXXX  XXXXXX
+Bucket 19 - 21:  12183  41088  XXXXXX
+Bucket 22 - 24:  XXXXXX  XXXXXX  XXXXXX
+Bucket 25 - 27:  70692  93201  XXXXXX
+Bucket 28 - 30:  90947  3453  24773  
+Bucket 31 - 33:  40353  XXXXXX  XXXXXX
+Bucket 34 - 36:  43635  64545  84266  
+Bucket 37 - 39:  96116  45850  XXXXXX
+Bucket 40 - 42:  37487  7721  XXXXXX
+Bucket 43 - 45:  62211  XXXXXX  XXXXXX
+Bucket 46 - 48:  85910  XXXXXX  XXXXXX
+Bucket 49 - 51:  34784  43435  XXXXXX
+Bucket 52 - 54:  96818  52005  9570  
+Bucket 55 - 57:  39378  59386  XXXXXX
+Bucket 58 - 60:  46062  60945  XXXXXX
+Bucket 61 - 63:  XXXXXX  XXXXXX  XXXXXX
+Bucket 64 - 66:  17446  4449  841  
+Bucket 67 - 69:  87311  XXXXXX  XXXXXX
+Bucket 70 - 72:  80629  38522  XXXXXX
+Bucket 73 - 75:  71979  47666  19663  
+Bucket 76 - 78:  88134  20155  21672  
+Bucket 79 - 81:  3265  77885  XXXXXX
+Bucket 82 - 84:  41970  3922  XXXXXX
+Bucket 85 - 87:  79158  53287  61569  
+Bucket 88 - 90:  56445  56445  1628  
+Bucket 91 - 93:  56774  74240  645  
+Bucket 94 - 96:  76619  1466  XXXXXX
+Bucket 97 - 99:  16104  63131  3148  
+Bucket 100 - 102:  71865  61123  27953  
+Bucket 103 - 105:  87364  44396  XXXXXX
+Bucket 106 - 108:  94171  63093  XXXXXX
+Bucket 109 - 111:  92122  XXXXXX  XXXXXX
+Bucket 112 - 114:  88556  XXXXXX  XXXXXX
+Bucket 115 - 117:  95158  15618  XXXXXX
+Bucket 118 - 120:  40137  XXXXXX  XXXXXX
+
+Load factor: 0.70
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 84
+Bucket size: 3
+Method: Division, mod 41
+Collision handling: Quadratic probing
+Number of primary collisions:  8
+Number of secondary collisions: 9
+
+Bucket 1 - 3:  12382  XXXXXX  XXXXXX
+Bucket 4 - 6:  65314  16442  20706  
+Bucket 7 - 9:  53220  35180  43052  
+Bucket 10 - 12:  99141  87332  XXXXXX
+Bucket 13 - 15:  78601  50926  44776  
+Bucket 16 - 18:  72077  96064  XXXXXX
+Bucket 19 - 21:  12183  41088  XXXXXX
+Bucket 22 - 24:  XXXXXX  XXXXXX  XXXXXX
+Bucket 25 - 27:  70692  93201  XXXXXX
+Bucket 28 - 30:  90947  3453  24773  
+Bucket 31 - 33:  40353  XXXXXX  XXXXXX
+Bucket 34 - 36:  43635  64545  84266  
+Bucket 37 - 39:  96116  45850  17260  
+Bucket 40 - 42:  37487  7721  XXXXXX
+Bucket 43 - 45:  62211  XXXXXX  XXXXXX
+Bucket 46 - 48:  85910  XXXXXX  XXXXXX
+Bucket 49 - 51:  34784  43435  XXXXXX
+Bucket 52 - 54:  96818  52005  9570  
+Bucket 55 - 57:  39378  59386  XXXXXX
+Bucket 58 - 60:  46062  60945  XXXXXX
+Bucket 61 - 63:  XXXXXX  XXXXXX  XXXXXX
+Bucket 64 - 66:  17446  4449  841  
+Bucket 67 - 69:  87311  XXXXXX  XXXXXX
+Bucket 70 - 72:  80629  38522  XXXXXX
+Bucket 73 - 75:  71979  47666  19663  
+Bucket 76 - 78:  88134  20155  21672  
+Bucket 79 - 81:  3265  77885  XXXXXX
+Bucket 82 - 84:  41970  3922  XXXXXX
+Bucket 85 - 87:  79158  53287  61569  
+Bucket 88 - 90:  56445  25091  56445  
+Bucket 91 - 93:  56774  74240  1628  
+Bucket 94 - 96:  76619  1466  645  
+Bucket 97 - 99:  16104  63131  3148  
+Bucket 100 - 102:  71865  61123  27953  
+Bucket 103 - 105:  87364  44396  XXXXXX
+Bucket 106 - 108:  94171  63093  XXXXXX
+Bucket 109 - 111:  92122  XXXXXX  XXXXXX
+Bucket 112 - 114:  88556  XXXXXX  XXXXXX
+Bucket 115 - 117:  95158  15618  XXXXXX
+Bucket 118 - 120:  40137  XXXXXX  XXXXXX
+
+Load factor: 0.70
+
+---------------------------------------
+0 values unable to be hashed
+
+
+
+Execution time of linear probing via division scheme mod 41 when bucket size = 3: 1.06e-03 seconds
+
+Execution time of quadratic probing via division scheme mod 41 when bucket size = 3: 9.14e-04 seconds
+
+Execution time for entire division scheme mod 41 when bucket size = 3: 2.03e-03 seconds
+
+.........................................................
+
+Execution time of entire program run: 6.57e+00 seconds
+
+************************************Next Run************************************
+Input size: 84
+Bucket size: 1
+Method: Multiplication, multiplication value 120
+Collision handling: Linear probing
+Number of primary collisions:  72
+Number of secondary collisions: 260
+
+Bucket 0 - 5:  [45850]  [41970]  [17260]  [85910]  [53220]  
+Bucket 5 - 10:  [35180]  [9570]  [74240]    XXXXXX    XXXXXX  
+Bucket 10 - 15:    XXXXXX  [53287]  [90947]  [37487]  [72077]  
+Bucket 15 - 20:  [40137]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 20 - 25:    XXXXXX    XXXXXX    XXXXXX  [16104]  [65314]  
+Bucket 25 - 30:  [87364]  [56774]  [34784]  [88134]  [96064]  
+Bucket 30 - 35:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 35 - 40:  [78601]  [25091]  [63131]  [94171]  [99141]  
+Bucket 40 - 45:  [7721]  [841]  [62211]  [87311]  [93201]  
+Bucket 45 - 50:    XXXXXX    XXXXXX  [79158]  [95158]  [96818]  
+Bucket 50 - 55:  [39378]  [3148]  [15618]  [41088]  [1628]  
+Bucket 55 - 60:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 60 - 65:  [43635]  [56445]  [52005]  [71865]  [3265]  
+Bucket 65 - 70:  [64545]  [60945]  [56445]  [77885]  [20155]  
+Bucket 70 - 75:  [645]  [70692]  [92122]  [46062]  [16442]  
+Bucket 75 - 80:  [38522]  [43052]  [12382]  [3922]  [43435]  
+Bucket 80 - 85:  [21672]  [87332]    XXXXXX    XXXXXX  [76619]  
+Bucket 85 - 90:  [71979]  [80629]  [61569]  [4449]    XXXXXX  
+Bucket 90 - 95:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 95 - 100:  [88556]  [96116]  [50926]  [59386]  [47666]  
+Bucket 100 - 105:  [17446]  [44776]  [1466]  [20706]  [44396]  
+Bucket 105 - 110:  [84266]    XXXXXX  [61123]  [12183]  [3453]  
+Bucket 110 - 115:  [19663]  [24773]  [40353]  [63093]  [27953]  
+Bucket 115 - 120:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+
+Load factor: 0.70
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 84
+Bucket size: 1
+Method: Multiplication, multiplication value 120
+Collision handling: Quadratic probing
+Number of primary collisions:  72
+Number of secondary collisions: 466
+
+Bucket 0 - 5:  [45850]  [41970]    XXXXXX    XXXXXX  [17260]  
+Bucket 5 - 10:  [43435]  [62211]  [24773]    XXXXXX    XXXXXX  
+Bucket 10 - 15:  [85910]  [53287]  [90947]  [37487]    XXXXXX  
+Bucket 15 - 20:  [72077]  [40137]    XXXXXX    XXXXXX  [87311]  
+Bucket 20 - 25:  [53220]  [20706]  [40353]  [16104]  [65314]  
+Bucket 25 - 30:  [87364]    XXXXXX  [34784]  [56774]    XXXXXX  
+Bucket 30 - 35:    XXXXXX  [44776]  [1466]    XXXXXX  [88134]  
+Bucket 35 - 40:  [78601]  [25091]    XXXXXX    XXXXXX  [63131]  
+Bucket 40 - 45:  [60945]  [21672]  [3922]  [63093]  [20155]  
+Bucket 45 - 50:  [94171]  [74240]  [79158]  [95158]    XXXXXX  
+Bucket 50 - 55:    XXXXXX  [96818]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 55 - 60:  [99141]  [35180]  [39378]    XXXXXX  [96064]  
+Bucket 60 - 65:  [43635]  [56445]    XXXXXX    XXXXXX  [52005]  
+Bucket 65 - 70:    XXXXXX  [44396]  [3148]    XXXXXX  [77885]  
+Bucket 70 - 75:  [71865]  [70692]  [92122]  [46062]    XXXXXX  
+Bucket 75 - 80:  [16442]  [38522]    XXXXXX    XXXXXX  [84266]  
+Bucket 80 - 85:  [3265]  [12382]  [15618]    XXXXXX  [76619]  
+Bucket 85 - 90:  [71979]    XXXXXX  [27953]  [80629]  [93201]  
+Bucket 90 - 95:  [87332]  [7721]  [43052]  [1628]  [61569]  
+Bucket 95 - 100:  [88556]  [96116]  [17446]    XXXXXX  [50926]  
+Bucket 100 - 105:  [9570]    XXXXXX    XXXXXX  [41088]  [4449]  
+Bucket 105 - 110:  [59386]  [56445]  [61123]  [12183]    XXXXXX  
+Bucket 110 - 115:    XXXXXX  [3453]    XXXXXX    XXXXXX  [645]  
+Bucket 115 - 120:  [47666]  [64545]  [19663]    XXXXXX  [841]  
+
+Load factor: 0.70
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 84
+Bucket size: 1
+Method: Multiplication, multiplication value 120
+Collision handling: Chaining
+Number of primary collisions:  69
+Number of secondary collisions: 0
+
+Bucket 0 - 5:  [45850][41970][17260][85910][53220][35180][9570][74240]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 5 - 10:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 10 - 15:    XXXXXX  [53287][90947][72077]  [37487][40137]    XXXXXX    XXXXXX  
+Bucket 15 - 20:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 20 - 25:    XXXXXX    XXXXXX    XXXXXX  [16104][34784]  [65314][87364][56774][88134][96064]  
+Bucket 25 - 30:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 30 - 35:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 35 - 40:  [78601][25091][63131][94171][99141][7721][841][62211][87311][93201]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 40 - 45:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 45 - 50:    XXXXXX    XXXXXX  [79158][95158][96818][39378][3148][15618][41088][1628]    XXXXXX    XXXXXX  
+Bucket 50 - 55:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 55 - 60:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 60 - 65:  [43635][56445][52005][71865][3265][64545][60945][56445][77885][20155][645][43435]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 65 - 70:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 70 - 75:    XXXXXX  [70692][92122][16442][12382][3922][21672][87332]  [46062][38522][43052]    XXXXXX    XXXXXX  
+Bucket 75 - 80:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 80 - 85:    XXXXXX    XXXXXX    XXXXXX    XXXXXX  [76619][71979][80629][61569][4449]  
+Bucket 85 - 90:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 90 - 95:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 95 - 100:  [88556][96116][50926][59386][47666][44776][44396][84266]  [17446][1466][20706]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 100 - 105:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 105 - 110:    XXXXXX    XXXXXX  [61123][3453][19663][24773][40353][63093][27953]  [12183]    XXXXXX  
+Bucket 110 - 115:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 115 - 120:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+
+Load factor: 0.70
+
+---------------------------------------
+0 values unable to be hashed
+
+
+
+Execution time for linear probing via multiplication scheme value 120: 1.74e-03 seconds
+
+Execution time for quadratic probing via multiplication scheme value 120: 2.44e-03 seconds
+
+Execution time for chaining via multiplication scheme value 120: 1.56e-03 seconds
+
+Execution time for entire multiplication scheme value 120: 5.83e-03 seconds
+
+.........................................................
+
+Execution time of entire program run: 1.01e+01 seconds
+
+************************************Next Run************************************
+Input size: 104
+Bucket size: 1
+Method: Division, mod 120
+Collision handling: Linear probing
+Number of primary collisions:  37
+Number of secondary collisions: 136
+
+Bucket 0 - 5:  [80160]    XXXXXX  [7322]  [65043]  [52204]  
+Bucket 5 - 10:  [97204]    XXXXXX  [43687]  [16328]  [60487]  
+Bucket 10 - 15:  [13690]  [68291]  [76812]  [35893]  [66014]  
+Bucket 15 - 20:    XXXXXX    XXXXXX  [33497]  [27258]  [76098]  
+Bucket 20 - 25:  [77059]  [75378]  [6382]  [55583]    XXXXXX  
+Bucket 25 - 30:    XXXXXX  [29786]    XXXXXX    XXXXXX  [76709]  
+Bucket 30 - 35:    XXXXXX  [90511]  [82472]    XXXXXX  [21154]  
+Bucket 35 - 40:  [65794]    XXXXXX  [69157]  [77798]  [88719]  
+Bucket 40 - 45:  [44560]  [87041]  [72281]  [5923]  [5563]  
+Bucket 45 - 50:  [49725]  [17686]  [53081]  [92808]  [73609]  
+Bucket 50 - 55:  [290]  [83691]  [48532]  [28013]  [33652]  
+Bucket 55 - 60:  [25852]  [95933]  [67137]  [70610]  [15419]  
+Bucket 60 - 65:  [31619]  [77941]  [2222]  [7742]  [30544]  
+Bucket 65 - 70:  [60539]    XXXXXX    XXXXXX  [54548]  [88148]  
+Bucket 70 - 75:  [71830]    XXXXXX  [27312]  [61513]  [69913]  
+Bucket 75 - 80:  [9435]  [88755]  [80474]  [9678]  [28519]  
+Bucket 80 - 85:  [97040]  [68000]  [56002]  [84803]  [95118]  
+Bucket 85 - 90:  [82645]  [66326]  [65113]  [94648]  [86609]  
+Bucket 90 - 95:  [22289]  [72689]  [17732]  [35971]  [15694]  
+Bucket 95 - 100:  [91294]  [11376]  [43174]  [94039]  [71859]  
+Bucket 100 - 105:  [33699]  [16779]  [96077]  [61523]  [92264]  
+Bucket 105 - 110:  [50265]  [99465]  [21947]  [20741]  [40429]  
+Bucket 110 - 115:  [8030]  [57091]  [84472]    XXXXXX  [63114]  
+Bucket 115 - 120:  [13315]    XXXXXX  [1917]  [43678]  [31558]  
+
+Load factor: 0.87
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 104
+Bucket size: 1
+Method: Division, mod 120
+Collision handling: Quadratic probing
+Number of primary collisions:  38
+Number of secondary collisions: 99
+
+Bucket 0 - 5:  [80160]    XXXXXX  [7322]  [65043]  [52204]  
+Bucket 5 - 10:  [97204]    XXXXXX  [43687]  [16328]    XXXXXX  
+Bucket 10 - 15:  [13690]  [68291]  [76812]  [35893]  [66014]  
+Bucket 15 - 20:  [94039]    XXXXXX  [33497]  [27258]  [76098]  
+Bucket 20 - 25:  [77059]    XXXXXX  [75378]  [55583]    XXXXXX  
+Bucket 25 - 30:    XXXXXX  [29786]  [60487]    XXXXXX  [76709]  
+Bucket 30 - 35:  [70610]  [90511]  [82472]  [95933]  [21154]  
+Bucket 35 - 40:  [65794]  [27312]  [69157]  [77798]  [88719]  
+Bucket 40 - 45:  [44560]  [87041]  [72281]  [5923]  [5563]  
+Bucket 45 - 50:  [49725]  [17686]  [61523]  [92808]  [73609]  
+Bucket 50 - 55:  [290]  [83691]  [48532]  [28013]  [63114]  
+Bucket 55 - 60:    XXXXXX  [33652]  [67137]    XXXXXX  [15419]  
+Bucket 60 - 65:  [31619]  [77941]  [2222]  [7742]  [30544]  
+Bucket 65 - 70:    XXXXXX    XXXXXX  [6382]  [54548]  [60539]  
+Bucket 70 - 75:  [71830]    XXXXXX  [25852]  [61513]  [69913]  
+Bucket 75 - 80:  [9435]  [88755]  [65113]  [9678]  [28519]  
+Bucket 80 - 85:  [97040]  [68000]  [56002]  [84803]  [80474]  
+Bucket 85 - 90:  [82645]  [66326]  [96077]  [94648]  [86609]  
+Bucket 90 - 95:  [22289]  [35971]  [17732]  [72689]  [15694]  
+Bucket 95 - 100:  [91294]  [11376]  [53081]  [95118]  [71859]  
+Bucket 100 - 105:  [33699]  [20741]    XXXXXX  [16779]  [92264]  
+Bucket 105 - 110:  [50265]  [99465]  [21947]    XXXXXX  [40429]  
+Bucket 110 - 115:  [8030]  [57091]  [84472]  [88148]  [43174]  
+Bucket 115 - 120:  [13315]    XXXXXX  [1917]  [43678]  [31558]  
+
+Load factor: 0.87
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 104
+Bucket size: 1
+Method: Division, mod 120
+Collision handling: Chaining
+Number of primary collisions:  32
+Number of secondary collisions: 0
+
+Bucket 0 - 5:  [80160]    XXXXXX  [7322]  [65043]  [52204][97204]  
+Bucket 5 - 10:    XXXXXX    XXXXXX  [43687][60487]  [16328]    XXXXXX  
+Bucket 10 - 15:  [13690]  [68291]  [76812]  [35893]  [66014]  
+Bucket 15 - 20:    XXXXXX    XXXXXX  [33497]  [27258][76098][75378]  [77059]  
+Bucket 20 - 25:    XXXXXX    XXXXXX  [6382]  [55583]    XXXXXX  
+Bucket 25 - 30:    XXXXXX  [29786]    XXXXXX    XXXXXX  [76709]  
+Bucket 30 - 35:    XXXXXX  [90511]  [82472]    XXXXXX  [21154][65794]  
+Bucket 35 - 40:    XXXXXX    XXXXXX  [69157]  [77798]  [88719]  
+Bucket 40 - 45:  [44560]  [87041][72281][53081]    XXXXXX  [5923][5563]    XXXXXX  
+Bucket 45 - 50:  [49725]  [17686]    XXXXXX  [92808]  [73609]  
+Bucket 50 - 55:  [290][70610]  [83691]  [48532][33652][25852]  [28013][95933]    XXXXXX  
+Bucket 55 - 60:    XXXXXX    XXXXXX  [67137]    XXXXXX  [15419][31619][60539]  
+Bucket 60 - 65:    XXXXXX  [77941]  [2222][7742]    XXXXXX  [30544]  
+Bucket 65 - 70:    XXXXXX    XXXXXX    XXXXXX  [54548][88148]    XXXXXX  
+Bucket 70 - 75:  [71830]    XXXXXX  [27312]  [61513][69913][65113]  [80474]  
+Bucket 75 - 80:  [9435][88755]    XXXXXX  [96077]  [9678][95118]  [28519][94039]  
+Bucket 80 - 85:  [97040][68000]    XXXXXX  [56002]  [84803][61523]    XXXXXX  
+Bucket 85 - 90:  [82645]  [66326]    XXXXXX  [94648]  [86609][22289][72689]  
+Bucket 90 - 95:    XXXXXX  [35971][57091]  [17732]    XXXXXX  [15694][91294][43174]  
+Bucket 95 - 100:    XXXXXX  [11376]    XXXXXX    XXXXXX  [71859][33699][16779]  
+Bucket 100 - 105:    XXXXXX  [20741]    XXXXXX    XXXXXX  [92264]  
+Bucket 105 - 110:  [50265][99465]    XXXXXX  [21947]    XXXXXX  [40429]  
+Bucket 110 - 115:  [8030]    XXXXXX  [84472]    XXXXXX  [63114]  
+Bucket 115 - 120:  [13315]    XXXXXX  [1917]  [43678][31558]    XXXXXX  
+
+Load factor: 0.87
+
+---------------------------------------
+0 values unable to be hashed
+
+
+
+Execution time for linear probing via division scheme mod 120: 1.48e-03 seconds
+
+Execution time for quadratic probing via division scheme mod 120: 1.57e-03 seconds
+
+Execution time for chaining via division scheme mod 120: 1.00e-03 seconds
+
+Execution time for entire division scheme mod 120: 4.18e-03 seconds
+
+.........................................................
+
+Execution time of entire program run: 6.07e+00 seconds
+
+************************************Next Run************************************
+Input size: 104
+Bucket size: 1
+Method: Division, mod 113
+Collision handling: Linear probing
+Number of primary collisions:  46
+Number of secondary collisions: 435
+
+Bucket 0 - 5:  [57091]  [69157]  [70610]  [84472]    XXXXXX  
+Bucket 5 - 10:  [49725]    XXXXXX  [75378]  [8030]  [43174]  
+Bucket 10 - 15:  [88148]    XXXXXX    XXXXXX    XXXXXX  [88719]  
+Bucket 15 - 20:  [67137]    XXXXXX  [13690]  [80474]    XXXXXX  
+Bucket 20 - 25:    XXXXXX    XXXXXX  [66014]  [21154]  [94039]  
+Bucket 25 - 30:  [27258]  [21947]  [33699]  [22289]  [99465]  
+Bucket 30 - 35:  [72689]  [87041]  [65794]  [60487]  [30544]  
+Bucket 35 - 40:  [92808]  [65113]  [35971]  [44560]  [68291]  
+Bucket 40 - 45:  [5563]  [61513]  [82645]  [80160]  [28519]  
+Bucket 45 - 50:  [96077]  [73609]  [5923]  [97204]  [76098]  
+Bucket 50 - 55:  [88755]  [86609]  [15419]  [33497]  [77798]  
+Bucket 55 - 60:  [48532]  [16328]  [9435]  [7742]  [16779]  
+Bucket 60 - 65:  [43678]  [84803]  [92264]  [17686]  [290]  
+Bucket 65 - 70:  [63114]  [61523]  [94648]  [29786]  [43687]  
+Bucket 70 - 75:  [65043]  [56002]  [35893]  [9678]  [83691]  
+Bucket 75 - 80:  [71830]  [2222]  [11376]  [72281]  [69913]  
+Bucket 80 - 85:  [27312]  [31558]  [54548]  [6382]  [77941]  
+Bucket 85 - 90:  [76812]  [97040]  [68000]  [25852]  [95118]  
+Bucket 90 - 95:  [7322]  [33652]  [31619]  [50265]  [13315]  
+Bucket 95 - 100:  [82472]  [76709]  [60539]  [40429]  [20741]  
+Bucket 100 - 105:  [55583]  [15694]  [28013]  [91294]  [71859]  
+Bucket 105 - 110:  [17732]  [77059]  [53081]  [66326]  [1917]  
+Bucket 110 - 115:  [95933]  [52204]  [90511]    XXXXXX    XXXXXX  
+Bucket 115 - 120:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+
+Load factor: 0.87
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 104
+Bucket size: 1
+Method: Division, mod 113
+Collision handling: Quadratic probing
+Number of primary collisions:  47
+Number of secondary collisions: 126
+
+Bucket 0 - 5:    XXXXXX  [69157]  [90511]    XXXXXX  [84472]  
+Bucket 5 - 10:  [49725]  [60539]  [75378]  [8030]  [43174]  
+Bucket 10 - 15:    XXXXXX    XXXXXX  [88148]    XXXXXX  [88719]  
+Bucket 15 - 20:  [67137]    XXXXXX  [13690]  [80474]    XXXXXX  
+Bucket 20 - 25:  [57091]  [31558]  [66014]  [21154]  [94039]  
+Bucket 25 - 30:  [27258]  [21947]  [5563]  [22289]  [33699]  
+Bucket 30 - 35:  [72689]  [87041]  [65794]  [60487]  [30544]  
+Bucket 35 - 40:  [92808]  [53081]  [35971]  [44560]  [68291]  
+Bucket 40 - 45:    XXXXXX  [61513]  [82645]  [80160]  [28519]  
+Bucket 45 - 50:  [99465]  [73609]  [5923]  [6382]  [76098]  
+Bucket 50 - 55:  [88755]  [86609]  [15419]  [33497]  [77798]  
+Bucket 55 - 60:  [48532]  [16328]  [9435]  [7742]  [16779]  
+Bucket 60 - 65:  [43678]  [63114]  [96077]  [84803]  [290]  
+Bucket 65 - 70:  [17686]  [92264]  [94648]  [29786]  [43687]  
+Bucket 70 - 75:    XXXXXX  [56002]  [65043]  [9678]  [72281]  
+Bucket 75 - 80:  [71830]  [2222]  [11376]  [83691]  [69913]  
+Bucket 80 - 85:  [97204]  [65113]  [54548]  [27312]  [77941]  
+Bucket 85 - 90:  [76812]  [97040]  [68000]  [25852]  [95118]  
+Bucket 90 - 95:  [7322]  [33652]  [35893]  [50265]  [13315]  
+Bucket 95 - 100:  [82472]  [76709]  [20741]  [40429]  [70610]  
+Bucket 100 - 105:  [55583]  [15694]  [28013]  [91294]  [71859]  
+Bucket 105 - 110:  [17732]  [77059]  [61523]  [66326]  [1917]  
+Bucket 110 - 115:  [95933]  [52204]  [31619]    XXXXXX    XXXXXX  
+Bucket 115 - 120:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+
+Load factor: 0.87
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 104
+Bucket size: 1
+Method: Division, mod 113
+Collision handling: Chaining
+Number of primary collisions:  33
+Number of secondary collisions: 0
+
+Bucket 0 - 5:    XXXXXX  [69157]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 5 - 10:  [49725]    XXXXXX  [75378][8030]  [43174][88148]    XXXXXX  
+Bucket 10 - 15:    XXXXXX    XXXXXX    XXXXXX    XXXXXX  [88719]  
+Bucket 15 - 20:  [67137]    XXXXXX  [13690]  [80474]    XXXXXX  
+Bucket 20 - 25:    XXXXXX    XXXXXX  [66014]  [21154][94039]  [97204]  
+Bucket 25 - 30:  [27258][21947][33699][99465][65113]  [5563][57091]  [96077]  [22289][65794]    XXXXXX  
+Bucket 30 - 35:  [72689]  [87041][31558]  [60487]    XXXXXX  [30544]  
+Bucket 35 - 40:  [92808]    XXXXXX  [35971]  [44560]  [68291]  
+Bucket 40 - 45:    XXXXXX  [61513]  [82645]  [80160][28519]    XXXXXX  
+Bucket 45 - 50:    XXXXXX  [73609]  [5923]    XXXXXX  [76098][33497]  
+Bucket 50 - 55:  [88755]  [86609][15419][61523]    XXXXXX  [84803]  [77798][6382]  
+Bucket 55 - 60:  [48532][16779]  [16328][9435][92264]    XXXXXX  [7742][17686]    XXXXXX  
+Bucket 60 - 65:  [43678][63114]  [84472]  [20741]    XXXXXX  [290]  
+Bucket 65 - 70:    XXXXXX    XXXXXX  [94648][29786][56002]  [65043]  [43687]  
+Bucket 70 - 75:    XXXXXX  [83691]  [35893]  [9678]  [72281]  
+Bucket 75 - 80:  [71830][2222]  [11376]    XXXXXX    XXXXXX  [69913][27312]  
+Bucket 80 - 85:    XXXXXX    XXXXXX  [54548]    XXXXXX  [77941][60539][53081]  
+Bucket 85 - 90:  [76812][95118]  [97040]  [68000]  [25852][40429]    XXXXXX  
+Bucket 90 - 95:  [7322]  [33652]  [31619]  [50265]  [13315]  
+Bucket 95 - 100:  [82472][76709]    XXXXXX    XXXXXX  [70610]    XXXXXX  
+Bucket 100 - 105:  [55583][15694]    XXXXXX  [28013]  [91294]  [71859][17732]  
+Bucket 105 - 110:    XXXXXX  [77059]    XXXXXX  [66326]  [1917][95933]  
+Bucket 110 - 115:    XXXXXX  [52204][90511]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 115 - 120:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+
+Load factor: 0.87
+
+---------------------------------------
+0 values unable to be hashed
+
+
+
+Execution time for linear probing via division scheme mod 113: 2.18e-03 seconds
+
+Execution time for quadratic probing via division scheme mod 113: 1.35e-03 seconds
+
+Execution time for chaining via division scheme mod 113: 1.10e-03 seconds
+
+Execution time for entire division scheme mod 113: 4.75e-03 seconds
+
+.........................................................
+
+Execution time of entire program run: 7.81e+00 seconds
+
+************************************Next Run************************************
+Input size: 104
+Bucket size: 3
+Method: Division, mod 41
+Collision handling: Linear probing
+Number of primary collisions:  23
+Number of secondary collisions: 24
+
+Bucket 1 - 3:  50265  77941  33497  
+Bucket 4 - 6:  99465  21154  95118  
+Bucket 7 - 9:  76098  9678  43174  
+Bucket 10 - 12:  15419  290  30544  
+Bucket 13 - 15:  66014  72281  40429  
+Bucket 16 - 18:  80160  9435  65113  
+Bucket 19 - 21:  27312  88148  XXXXXX
+Bucket 22 - 24:  XXXXXX  XXXXXX  XXXXXX
+Bucket 25 - 27:  2222  31619  69913  
+Bucket 28 - 30:  70610  XXXXXX  XXXXXX
+Bucket 31 - 33:  16328  28013  16779  
+Bucket 34 - 36:  52204  83691  XXXXXX
+Bucket 37 - 39:  21947  60487  84472  
+Bucket 40 - 42:  61513  43678  XXXXXX
+Bucket 43 - 45:  73609  35971  92264  
+Bucket 46 - 48:  84803  96077  17686  
+Bucket 49 - 51:  63114  XXXXXX  XXXXXX
+Bucket 52 - 54:  86609  65043  XXXXXX
+Bucket 55 - 57:  54548  35893  XXXXXX
+Bucket 58 - 60:  5923  76812  11376  
+Bucket 61 - 63:  94648  29786  67137  
+Bucket 64 - 66:  82472  77798  17732  
+Bucket 67 - 69:  43687  68000  77059  
+Bucket 70 - 72:  75378  25852  60539  
+Bucket 73 - 75:  28519  7322  90511  
+Bucket 76 - 78:  92808  61523  57091  
+Bucket 79 - 81:  22289  68291  94039  
+Bucket 82 - 84:  71859  6382  53081  
+Bucket 85 - 87:  55583  91294  5563  
+Bucket 88 - 90:  48532  66326  31558  
+Bucket 91 - 93:  82645  65794  XXXXXX
+Bucket 94 - 96:  69157  88755  1917  
+Bucket 97 - 99:  33652  15694  13315  
+Bucket 100 - 102:  49725  80474  XXXXXX
+Bucket 103 - 105:  97040  27258  7742  
+Bucket 106 - 108:  44560  8030  97204  
+Bucket 109 - 111:  88719  95933  20741  
+Bucket 112 - 114:  72689  56002  13690  
+Bucket 115 - 117:  33699  XXXXXX  XXXXXX
+Bucket 118 - 120:  71830  76709  87041  
+
+Load factor: 0.87
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 104
+Bucket size: 3
+Method: Division, mod 41
+Collision handling: Quadratic probing
+Number of primary collisions:  22
+Number of secondary collisions: 35
+
+Bucket 1 - 3:  77941  33497  XXXXXX
+Bucket 4 - 6:  43174  XXXXXX  XXXXXX
+Bucket 7 - 9:  76098  9678  21154  
+Bucket 10 - 12:  15419  290  99465  
+Bucket 13 - 15:  66014  40429  XXXXXX
+Bucket 16 - 18:  80160  9435  30544  
+Bucket 19 - 21:  65113  27312  XXXXXX
+Bucket 22 - 24:  XXXXXX  XXXXXX  XXXXXX
+Bucket 25 - 27:  2222  31619  69913  
+Bucket 28 - 30:  70610  XXXXXX  XXXXXX
+Bucket 31 - 33:  16328  28013  16779  
+Bucket 34 - 36:  52204  83691  XXXXXX
+Bucket 37 - 39:  21947  60487  84472  
+Bucket 40 - 42:  61513  43678  88148  
+Bucket 43 - 45:  73609  35971  92264  
+Bucket 46 - 48:  84803  96077  17686  
+Bucket 49 - 51:  63114  XXXXXX  XXXXXX
+Bucket 52 - 54:  86609  65043  XXXXXX
+Bucket 55 - 57:  54548  35893  95118  
+Bucket 58 - 60:  5923  76812  11376  
+Bucket 61 - 63:  94648  29786  67137  
+Bucket 64 - 66:  82472  77798  17732  
+Bucket 67 - 69:  43687  68000  25852  
+Bucket 70 - 72:  60539  61523  57091  
+Bucket 73 - 75:  77059  75378  28519  
+Bucket 76 - 78:  92808  7322  90511  
+Bucket 79 - 81:  22289  68291  94039  
+Bucket 82 - 84:  71859  6382  53081  
+Bucket 85 - 87:  55583  91294  5563  
+Bucket 88 - 90:  48532  66326  31558  
+Bucket 91 - 93:  82645  65794  XXXXXX
+Bucket 94 - 96:  69157  88755  1917  
+Bucket 97 - 99:  33652  15694  13315  
+Bucket 100 - 102:  49725  80474  72281  
+Bucket 103 - 105:  97040  27258  7742  
+Bucket 106 - 108:  44560  8030  97204  
+Bucket 109 - 111:  88719  20741  XXXXXX
+Bucket 112 - 114:  50265  72689  56002  
+Bucket 115 - 117:  33699  13690  95933  
+Bucket 118 - 120:  71830  76709  87041  
+
+Load factor: 0.87
+
+---------------------------------------
+0 values unable to be hashed
+
+
+
+Execution time of linear probing via division scheme mod 41 when bucket size = 3: 1.44e-03 seconds
+
+Execution time of quadratic probing via division scheme mod 41 when bucket size = 3: 1.42e-03 seconds
+
+Execution time for entire division scheme mod 41 when bucket size = 3: 2.92e-03 seconds
+
+.........................................................
+
+Execution time of entire program run: 1.12e+01 seconds
+
+************************************Next Run************************************
+Input size: 104
+Bucket size: 1
+Method: Multiplication, multiplication value 120
+Collision handling: Linear probing
+Number of primary collisions:  97
+Number of secondary collisions: 1060
+
+Bucket 0 - 5:  [97040]  [80160]  [49725]  [9435]  [50265]  
+Bucket 5 - 10:  [71830]  [290]  [88755]  [82645]  [68000]  
+Bucket 10 - 15:  [99465]  [44560]  [13315]  [8030]  [13690]  
+Bucket 15 - 20:  [70610]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 20 - 25:    XXXXXX    XXXXXX    XXXXXX    XXXXXX  [16328]  
+Bucket 25 - 30:  [5923]  [92808]  [94648]  [54548]  [27258]  
+Bucket 30 - 35:  [76098]  [9678]  [65043]  [61513]  [35893]  
+Bucket 35 - 40:  [43678]  [28013]  [77798]  [55583]  [75378]  
+Bucket 40 - 45:  [84803]  [69913]  [95118]  [65113]  [5563]  
+Bucket 45 - 50:  [61523]  [88148]  [31558]  [77941]  [29786]  
+Bucket 50 - 55:  [68291]  [87041]  [66326]  [35971]  [11376]  
+Bucket 55 - 60:  [83691]  [90511]  [72281]  [17686]  [95933]  
+Bucket 60 - 65:  [20741]  [53081]  [57091]    XXXXXX    XXXXXX  
+Bucket 65 - 70:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 70 - 75:    XXXXXX  [86609]  [15419]  [52204]  [22289]  
+Bucket 75 - 80:  [72689]  [71859]  [66014]  [76709]  [33699]  
+Bucket 80 - 85:  [77059]  [31619]  [16779]  [73609]  [15694]  
+Bucket 85 - 90:  [88719]  [28519]  [92264]  [21154]  [91294]  
+Bucket 90 - 95:  [80474]  [43174]  [65794]  [30544]  [60539]  
+Bucket 95 - 100:  [43687]  [69157]  [2222]  [48532]  [82472]  
+Bucket 100 - 105:  [21947]  [67137]  [33652]  [7742]  [17732]  
+Bucket 105 - 110:  [56002]  [33497]  [1917]  [76812]  [25852]  
+Bucket 110 - 115:  [7322]  [60487]  [94039]  [40429]  [96077]  
+Bucket 115 - 120:  [63114]  [97204]  [27312]  [6382]  [84472]  
+
+Load factor: 0.87
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 104
+Bucket size: 1
+Method: Multiplication, multiplication value 120
+Collision handling: Quadratic probing
+Number of primary collisions:  97
+Number of secondary collisions: 1676
+
+Bucket 0 - 5:  [97040]  [80160]  [84472]    XXXXXX  [49725]  
+Bucket 5 - 10:  [5563]  [21154]  [92264]  [76709]  [68000]  
+Bucket 10 - 15:  [9435]  [33652]  [15694]  [31558]  [95933]  
+Bucket 15 - 20:    XXXXXX  [60487]  [43174]  [57091]  [17686]  
+Bucket 20 - 25:  [50265]  [56002]  [33497]  [90511]  [16328]  
+Bucket 25 - 30:  [5923]    XXXXXX    XXXXXX  [92808]    XXXXXX  
+Bucket 30 - 35:  [25852]  [7322]  [7742]  [28013]  [94648]  
+Bucket 35 - 40:  [71830]  [33699]    XXXXXX    XXXXXX  [61523]  
+Bucket 40 - 45:  [8030]  [96077]  [65794]  [28519]  [54548]  
+Bucket 45 - 50:  [88755]  [82645]  [16779]  [77941]  [29786]  
+Bucket 50 - 55:  [88148]  [91294]  [68291]  [30544]  [44560]  
+Bucket 55 - 60:  [13315]  [290]  [72281]  [87041]  [27258]  
+Bucket 60 - 65:  [17732]    XXXXXX    XXXXXX    XXXXXX  [69913]  
+Bucket 65 - 70:  [13690]  [27312]  [76812]  [66326]  [65043]  
+Bucket 70 - 75:  [61513]  [86609]  [15419]  [52204]    XXXXXX  
+Bucket 75 - 80:  [88719]  [22289]  [6382]  [75378]  [84803]  
+Bucket 80 - 85:  [76098]  [73609]  [72689]  [35971]  [77798]  
+Bucket 85 - 90:    XXXXXX    XXXXXX  [40429]  [63114]  [95118]  
+Bucket 90 - 95:  [97204]  [99465]  [71859]  [11376]  [83691]  
+Bucket 95 - 100:  [43687]  [69157]  [2222]    XXXXXX  [48532]  
+Bucket 100 - 105:  [82472]  [70610]  [60539]  [20741]  [43678]  
+Bucket 105 - 110:  [1917]  [21947]  [66014]  [9678]    XXXXXX  
+Bucket 110 - 115:    XXXXXX  [94039]  [80474]  [53081]  [65113]  
+Bucket 115 - 120:  [55583]  [67137]  [77059]  [31619]  [35893]  
+
+Load factor: 0.87
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 104
+Bucket size: 1
+Method: Multiplication, multiplication value 120
+Collision handling: Chaining
+Number of primary collisions:  96
+Number of secondary collisions: 0
+
+Bucket 0 - 5:  [97040][80160][49725][9435][50265][71830][290][88755][82645][68000][99465][44560][13315][8030][13690][70610]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 5 - 10:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 10 - 15:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 15 - 20:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 20 - 25:    XXXXXX    XXXXXX    XXXXXX    XXXXXX  [16328][5923][92808][94648][54548][27258][76098][9678][65043][61513][35893][43678][28013][77798][55583][75378][84803][69913][95118][65113][5563][61523][88148][31558][95933]  
+Bucket 25 - 30:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 30 - 35:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 35 - 40:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 40 - 45:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 45 - 50:    XXXXXX    XXXXXX  [20741]  [77941][29786][68291][87041][66326][35971][11376][83691][90511][72281][17686][53081][57091]    XXXXXX  
+Bucket 50 - 55:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 55 - 60:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 60 - 65:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 65 - 70:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 70 - 75:    XXXXXX  [86609][88719][92264][91294][94039][97204]  [15419][52204][22289][72689][71859][66014][76709][33699][77059][31619][16779][73609][15694][28519][21154][80474][43174][65794][30544][60539][40429][63114]    XXXXXX    XXXXXX  
+Bucket 75 - 80:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 80 - 85:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 85 - 90:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 90 - 95:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 95 - 100:  [43687][48532]  [69157][2222][82472][21947][67137][33652][7742][17732][56002][33497][1917][76812][25852][7322][60487][96077][27312][6382][84472]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 100 - 105:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 105 - 110:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 110 - 115:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 115 - 120:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+
+Load factor: 0.87
+
+---------------------------------------
+0 values unable to be hashed
+
+
+
+Execution time for linear probing via multiplication scheme value 120: 3.12e-03 seconds
+
+Execution time for quadratic probing via multiplication scheme value 120: 3.37e-03 seconds
+
+Execution time for chaining via multiplication scheme value 120: 7.61e-04 seconds
+
+Execution time for entire multiplication scheme value 120: 7.31e-03 seconds
+
+.........................................................
+
+Execution time of entire program run: 8.01e+00 seconds
+
+************************************Next Run************************************
+Input size: 120
+Bucket size: 1
+Method: Division, mod 120
+Collision handling: Linear probing
+Number of primary collisions:  64
+Number of secondary collisions: 976
+
+Bucket 0 - 5:  [16478]  [121]  [88562]  [30123]  [53641]  
+Bucket 5 - 10:  [53402]  [73204]  [37327]  [9724]  [23045]  
+Bucket 10 - 15:  [69394]  [3696]  [66541]  [61540]  [96014]  
+Bucket 15 - 20:  [20414]  [82696]  [17897]  [80414]  [12376]  
+Bucket 20 - 25:  [28214]  [53181]  [16462]  [3142]  [983]  
+Bucket 25 - 30:  [80905]  [31226]  [74784]  [47065]  [43347]  
+Bucket 30 - 35:  [62180]  [90871]  [43952]  [1473]  [49834]  
+Bucket 35 - 40:  [92673]  [8315]  [87395]  [76934]  [69879]  
+Bucket 40 - 45:  [7240]  [61361]  [22482]  [20683]  [16364]  
+Bucket 45 - 50:  [80685]  [35685]  [6400]  [33288]  [41896]  
+Bucket 50 - 55:  [54410]  [4371]  [34251]  [22575]  [52817]  
+Bucket 55 - 60:  [9295]  [60776]  [70616]  [99380]  [31487]  
+Bucket 60 - 65:  [27147]  [89941]  [85022]  [99543]  [99304]  
+Bucket 65 - 70:  [19025]  [11466]  [79703]  [18145]  [62949]  
+Bucket 70 - 75:  [5469]  [57069]  [25872]  [41712]  [5112]  
+Bucket 75 - 80:  [8713]  [19876]  [53117]  [50355]  [3559]  
+Bucket 80 - 85:  [14599]  [49160]  [78199]  [86957]  [68109]  
+Bucket 85 - 90:  [20725]  [60300]  [71247]  [25168]  [73408]  
+Bucket 90 - 95:  [49529]  [61771]  [85532]  [96082]  [90570]  
+Bucket 95 - 100:  [31415]  [44376]  [48456]  [28776]  [50257]  
+Bucket 100 - 105:  [34660]  [65621]  [51222]  [76656]  [65264]  
+Bucket 105 - 110:  [6345]  [45346]  [87576]  [73668]  [68021]  
+Bucket 110 - 115:  [9230]  [37670]  [19312]  [73909]  [5430]  
+Bucket 115 - 120:  [24775]  [39381]  [32997]  [7677]  [21719]  
+
+Load factor: 1.00
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 120
+Bucket size: 1
+Method: Division, mod 120
+Collision handling: Quadratic probing
+Number of primary collisions:  61
+Number of secondary collisions: 946
+
+Bucket 0 - 5:  [41896]  [121]  [88562]  [30123]  [73204]  
+Bucket 5 - 10:  [53641]  [53402]  [37327]  [9724]  [73909]  
+Bucket 10 - 15:  [5430]  [87576]  [39381]  [69394]  [96014]  
+Bucket 15 - 20:  [20414]  [82696]  [17897]  [80414]  [22575]  
+Bucket 20 - 25:  [12376]  [53181]  [16462]  [3142]  [983]  
+Bucket 25 - 30:  [80905]  [31226]  [43347]  [74784]  [47065]  
+Bucket 30 - 35:  [62180]  [90871]  [43952]  [1473]  [49834]  
+Bucket 35 - 40:  [8315]  [87395]  [92673]  [16478]  [69879]  
+Bucket 40 - 45:  [7240]  [61361]  [22482]  [20683]  [16364]  
+Bucket 45 - 50:  [80685]  [35685]  [31487]  [33288]  [28214]  
+Bucket 50 - 55:  [54410]  [4371]  [34251]  [96082]  [24775]  
+Bucket 55 - 60:  [9295]  [60776]  [70616]  [79703]  [76934]  
+Bucket 60 - 65:  [6400]  [89941]  [85022]  [99543]  [99304]  
+Bucket 65 - 70:  [19025]  [11466]  [27147]    XXXXXX  [62949]  
+Bucket 70 - 75:  [5469]  [68021]  [25872]  [57069]  [8713]  
+Bucket 75 - 80:  [50355]  [19876]  [53117]  [86957]  [3559]  
+Bucket 80 - 85:  [14599]  [49160]  [41712]  [78199]  [61540]  
+Bucket 85 - 90:  [20725]  [60300]  [71247]  [25168]  [73408]  
+Bucket 90 - 95:  [49529]  [61771]  [85532]    XXXXXX  [90570]  
+Bucket 95 - 100:  [31415]  [44376]  [48456]  [50257]  [18145]  
+Bucket 100 - 105:  [28776]  [34660]  [51222]    XXXXXX  [65264]  
+Bucket 105 - 110:  [65621]  [45346]  [5112]  [73668]  [6345]  
+Bucket 110 - 115:  [9230]  [37670]  [19312]  [52817]  [68109]  
+Bucket 115 - 120:  [99380]  [76656]  [32997]  [7677]  [21719]  
+
+Load factor: 1.00
+
+---------------------------------------
+3 values unable to be hashed
+
+
+Input size: 120
+Bucket size: 1
+Method: Division, mod 120
+Collision handling: Chaining
+Number of primary collisions:  44
+Number of secondary collisions: 0
+
+Bucket 0 - 5:    XXXXXX  [121][53641]  [88562][53402]  [30123]  [73204][9724]  
+Bucket 5 - 10:  [23045]    XXXXXX  [37327]    XXXXXX    XXXXXX  
+Bucket 10 - 15:    XXXXXX    XXXXXX    XXXXXX    XXXXXX  [96014][20414][80414][28214][76934]  
+Bucket 15 - 20:  [22575]  [82696][12376][41896]  [17897][52817]    XXXXXX    XXXXXX  
+Bucket 20 - 25:  [62180][99380]  [53181][39381]  [16462][3142]  [983][79703]  [74784]  
+Bucket 25 - 30:  [80905][47065][18145]  [31226]  [43347][27147]    XXXXXX    XXXXXX  
+Bucket 30 - 35:  [5430]  [90871]  [43952]  [1473][92673]  [49834][69394]  
+Bucket 35 - 40:  [8315][87395]    XXXXXX    XXXXXX  [16478]  [69879]  
+Bucket 40 - 45:  [7240][6400]  [61361]  [22482]  [20683]  [16364]  
+Bucket 45 - 50:  [80685][35685]    XXXXXX  [31487]  [33288]    XXXXXX  
+Bucket 50 - 55:  [54410]  [4371][34251]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 55 - 60:  [9295][24775]  [60776][70616]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 60 - 65:  [60300]  [89941][66541]  [85022]  [99543]  [99304]  
+Bucket 65 - 70:  [19025]  [11466]    XXXXXX    XXXXXX  [62949][5469][57069][68109]  
+Bucket 70 - 75:    XXXXXX    XXXXXX  [25872][41712][5112]  [8713]    XXXXXX  
+Bucket 75 - 80:  [50355]  [19876]  [53117][86957]    XXXXXX  [3559][14599][78199]  
+Bucket 80 - 85:  [49160]    XXXXXX  [96082]    XXXXXX    XXXXXX  
+Bucket 85 - 90:  [20725]    XXXXXX  [71247]  [25168][73408]  [49529]  
+Bucket 90 - 95:  [90570]  [61771]  [85532]    XXXXXX    XXXXXX  
+Bucket 95 - 100:  [31415]  [44376][48456][28776][76656][87576][3696]  [50257]    XXXXXX    XXXXXX  
+Bucket 100 - 105:  [34660][61540]  [65621][68021]  [51222]    XXXXXX  [65264]  
+Bucket 105 - 110:  [6345]  [45346]    XXXXXX  [73668]  [73909]  
+Bucket 110 - 115:  [9230][37670]    XXXXXX  [19312]    XXXXXX    XXXXXX  
+Bucket 115 - 120:    XXXXXX    XXXXXX  [32997][7677]    XXXXXX  [21719]  
+
+Load factor: 1.00
+
+---------------------------------------
+0 values unable to be hashed
+
+
+
+Execution time for linear probing via division scheme mod 120: 3.06e-03 seconds
+
+Execution time for quadratic probing via division scheme mod 120: 3.49e-03 seconds
+
+Execution time for chaining via division scheme mod 120: 8.11e-04 seconds
+
+Execution time for entire division scheme mod 120: 7.50e-03 seconds
+
+.........................................................
+
+Execution time of entire program run: 7.73e+00 seconds
+
+************************************Next Run************************************
+Input size: 120
+Bucket size: 1
+Method: Division, mod 113
+Collision handling: Linear probing
+Number of primary collisions:  71
+Number of secondary collisions: 1580
+
+Bucket 0 - 5:  [41896]  [49834]  [32997]  [80685]  [1473]  
+Bucket 5 - 10:  [20683]  [49160]  [53117]  [7240]  [62949]  
+Bucket 10 - 15:  [121]  [57069]  [31415]  [92673]  [34251]  
+Bucket 15 - 20:  [41712]  [61361]  [6345]  [8713]  [90871]  
+Bucket 20 - 25:  [78199]  [87576]  [14599]  [21719]  [99543]  
+Bucket 25 - 30:  [22575]  [68021]  [5112]  [9724]  [9295]  
+Bucket 30 - 35:  [62180]  [31487]  [27147]  [51222]  [45346]  
+Bucket 35 - 40:  [49529]  [73909]  [37327]  [31226]  [79703]  
+Bucket 40 - 45:  [18145]  [19025]  [37670]  [17897]  [76656]  
+Bucket 45 - 50:  [5469]  [85022]  [87395]  [69879]  [20725]  
+Bucket 50 - 55:  [52817]  [60300]  [96082]  [11466]  [99380]  
+Bucket 55 - 60:  [5430]  [3559]  [54410]  [47065]  [12376]  
+Bucket 60 - 65:  [86957]  [71247]  [90570]  [65264]  [24775]  
+Bucket 65 - 70:  [30123]  [8315]  [33288]  [43347]  [53402]  
+Bucket 70 - 75:  [50355]  [53181]  [80414]  [61771]  [28776]  
+Bucket 75 - 80:  [20414]  [73408]  [96014]  [4371]  [9230]  
+Bucket 80 - 85:  [44376]  [16462]  [983]  [88562]  [34660]  
+Bucket 85 - 90:  [65621]  [25168]  [50257]  [53641]  [28214]  
+Bucket 90 - 95:  [99304]  [3142]  [48456]  [82696]  [16364]  
+Bucket 95 - 100:  [60776]  [74784]  [35685]  [73204]  [76934]  
+Bucket 100 - 105:  [68109]  [19876]  [19312]  [6400]  [70616]  
+Bucket 105 - 110:  [85532]  [89941]  [73668]  [25872]  [22482]  
+Bucket 110 - 115:  [80905]  [43952]  [7677]    XXXXXX    XXXXXX  
+Bucket 115 - 120:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+
+Load factor: 1.00
+
+---------------------------------------
+7 values unable to be hashed
+
+
+Input size: 120
+Bucket size: 1
+Method: Division, mod 113
+Collision handling: Quadratic probing
+Number of primary collisions:  69
+Number of secondary collisions: 1137
+
+Bucket 0 - 5:  [99543]  [49834]  [32997]  [80685]  [1473]  
+Bucket 5 - 10:  [20683]  [49160]  [53117]  [7240]  [62949]  
+Bucket 10 - 15:  [73408]  [31415]  [121]  [92673]  [57069]  
+Bucket 15 - 20:  [41712]  [34251]  [6345]  [60300]  [90871]  
+Bucket 20 - 25:  [24775]  [87576]  [14599]  [21719]  [6400]  
+Bucket 25 - 30:  [41896]  [9724]  [5112]  [27147]  [9295]  
+Bucket 30 - 35:  [43952]  [62180]  [8713]  [51222]  [45346]  
+Bucket 35 - 40:  [49529]  [96082]  [37327]  [31226]  [73909]  
+Bucket 40 - 45:  [52817]  [19025]  [37670]  [17897]  [31487]  
+Bucket 45 - 50:  [5469]  [85022]  [87395]  [99380]  [69879]  
+Bucket 50 - 55:  [20725]  [68021]  [76656]  [11466]  [61361]  
+Bucket 55 - 60:  [78199]  [3559]  [54410]  [47065]  [12376]  
+Bucket 60 - 65:  [86957]  [71247]  [79703]  [65264]  [90570]  
+Bucket 65 - 70:  [30123]  [8315]  [33288]  [43347]  [18145]  
+Bucket 70 - 75:  [50355]  [53181]  [80414]  [61771]  [28776]  
+Bucket 75 - 80:  [20414]  [53402]  [96014]  [4371]  [983]  
+Bucket 80 - 85:  [44376]  [9230]  [34660]  [88562]  [68109]  
+Bucket 85 - 90:  [65621]  [25168]  [16462]  [22575]  [50257]  
+Bucket 90 - 95:  [99304]  [3142]  [48456]  [82696]  [35685]  
+Bucket 95 - 100:  [60776]  [16364]  [28214]  [76934]  [53641]  
+Bucket 100 - 105:  [5430]  [19876]  [19312]  [73204]  [70616]  
+Bucket 105 - 110:  [85532]  [89941]  [7677]  [25872]  [73668]  
+Bucket 110 - 115:  [80905]  [74784]  [22482]    XXXXXX    XXXXXX  
+Bucket 115 - 120:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+
+Load factor: 1.00
+
+---------------------------------------
+7 values unable to be hashed
+
+
+Input size: 120
+Bucket size: 1
+Method: Division, mod 113
+Collision handling: Chaining
+Number of primary collisions:  53
+Number of secondary collisions: 0
+
+Bucket 0 - 5:    XXXXXX  [49834][32997][31415][87576]  [61361]  [80685][78199]  [1473][20683][57069]  
+Bucket 5 - 10:  [49160]  [9724][5430]  [53117][73909]  [7240][62949][121]    XXXXXX  
+Bucket 10 - 15:    XXXXXX    XXXXXX  [34251][8713][69394]  [92673]    XXXXXX  
+Bucket 15 - 20:  [41712]    XXXXXX  [6345]    XXXXXX  [90871]  
+Bucket 20 - 25:    XXXXXX    XXXXXX  [14599]  [21719]    XXXXXX  
+Bucket 25 - 30:    XXXXXX    XXXXXX  [5112][27147]  [24775]  [9295]  
+Bucket 30 - 35:  [62180]    XXXXXX  [96082]  [51222][45346]    XXXXXX  
+Bucket 35 - 40:  [49529]    XXXXXX  [37327]  [31226][79703]    XXXXXX  
+Bucket 40 - 45:    XXXXXX  [19025][37670]  [76656]  [17897]    XXXXXX  
+Bucket 45 - 50:  [5469][69879]  [85022][87395][20725][52817]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 50 - 55:    XXXXXX    XXXXXX    XXXXXX  [11466][99380]    XXXXXX  
+Bucket 55 - 60:    XXXXXX  [3559]  [54410][47065][71247][90570][39381]    XXXXXX  [12376]  
+Bucket 60 - 65:  [86957]    XXXXXX    XXXXXX  [65264]    XXXXXX  
+Bucket 65 - 70:  [30123][18145]  [8315][33288][53402]    XXXXXX  [43347][61540]    XXXXXX  
+Bucket 70 - 75:  [50355]  [53181][80414][73408][60300]  [6400]  [61771][31487]  [28776][20414]  
+Bucket 75 - 80:    XXXXXX    XXXXXX  [96014][4371][9230][16462][28214]    XXXXXX  [983][53641]  
+Bucket 80 - 85:  [44376][3696]  [65621]  [34660][25168]  [88562][68109]    XXXXXX  
+Bucket 85 - 90:  [50257]  [41896]    XXXXXX  [22575]    XXXXXX  
+Bucket 90 - 95:  [99304][35685]  [3142][74784]  [48456][16364]  [82696][73204][16478]  [76934]  
+Bucket 95 - 100:  [60776]    XXXXXX  [66541]    XXXXXX    XXXXXX  
+Bucket 100 - 105:    XXXXXX  [19876]  [19312]  [99543]  [70616][85532]  
+Bucket 105 - 110:  [73668]  [89941][7677][23045]    XXXXXX  [25872][22482][43952][68021]    XXXXXX  
+Bucket 110 - 115:  [80905]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 115 - 120:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+
+Load factor: 1.00
+
+---------------------------------------
+0 values unable to be hashed
+
+
+
+Execution time for linear probing via division scheme mod 113: 4.87e-03 seconds
+
+Execution time for quadratic probing via division scheme mod 113: 2.78e-03 seconds
+
+Execution time for chaining via division scheme mod 113: 6.78e-04 seconds
+
+Execution time for entire division scheme mod 113: 8.49e-03 seconds
+
+.........................................................
+
+Execution time of entire program run: 6.31e+00 seconds
+
+************************************Next Run************************************
+Input size: 120
+Bucket size: 3
+Method: Division, mod 41
+Collision handling: Linear probing
+Number of primary collisions:  37
+Number of secondary collisions: 151
+
+Bucket 1 - 3:  82696  983  45346  
+Bucket 4 - 6:  25872  19025  49160  
+Bucket 7 - 9:  88562  19312  74784  
+Bucket 10 - 12:  14599  54410  43952  
+Bucket 13 - 15:  53181  99304  6400  
+Bucket 16 - 18:  9230  16364  87576  
+Bucket 19 - 21:  85532  28214  49529  
+Bucket 22 - 24:  50355  68021  9724  
+Bucket 25 - 27:  68109  31487  27147  
+Bucket 28 - 30:  31415  52817  79703  
+Bucket 31 - 33:  43347  7677  90570  
+Bucket 34 - 36:  24775  23045  16478  
+Bucket 37 - 39:  80905  78199  3696  
+Bucket 40 - 42:  92673  51222  80414  
+Bucket 43 - 45:  62949  44376  60776  
+Bucket 46 - 48:  90871  34660  70616  
+Bucket 49 - 51:  5469  41712  34251  
+Bucket 52 - 54:  37327  22482  53641  
+Bucket 55 - 57:  73408  69879  35685  
+Bucket 58 - 60:  49834  20683  73204  
+Bucket 61 - 63:  53402  20725  76934  
+Bucket 64 - 66:  17897  16462  65621  
+Bucket 67 - 69:  53117  8713  96082  
+Bucket 70 - 72:  18145  5430  39381  
+Bucket 73 - 75:  7240  87395  62180  
+Bucket 76 - 78:  4371  61771  31226  
+Bucket 79 - 81:  3142  61361  22575  
+Bucket 82 - 84:  76656  11466  73909  
+Bucket 85 - 87:  89941  5112  69394  
+Bucket 88 - 90:  30123  9295  85022  
+Bucket 91 - 93:  21719  71247  60300  
+Bucket 94 - 96:  6345  66541  61540  
+Bucket 97 - 99:  19876  73668  37670  
+Bucket 100 - 102:  96014  3559  32997  
+Bucket 103 - 105:  8315  65264  50257  
+Bucket 106 - 108:  48456  28776  25168  
+Bucket 109 - 111:  12376  41896  99543  
+Bucket 112 - 114:  20414  33288  86957  
+Bucket 115 - 117:  1473  57069  80685  
+Bucket 118 - 120:  121  47065  99380  
+
+Load factor: 1.00
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 120
+Bucket size: 3
+Method: Division, mod 41
+Collision handling: Quadratic probing
+Number of primary collisions:  37
+Number of secondary collisions: 159
+
+Bucket 1 - 3:  45346  74784  43952  
+Bucket 4 - 6:  25872  19025  49160  
+Bucket 7 - 9:  88562  19312  99304  
+Bucket 10 - 12:  14599  983  54410  
+Bucket 13 - 15:  53181  6400  87576  
+Bucket 16 - 18:  9230  16364  49529  
+Bucket 19 - 21:  85532  28214  68021  
+Bucket 22 - 24:  50355  9724  27147  
+Bucket 25 - 27:  68109  69394  66541  
+Bucket 28 - 30:  31415  35685  52817  
+Bucket 31 - 33:  43347  7677  3696  
+Bucket 34 - 36:  90570  24775  16478  
+Bucket 37 - 39:  80905  78199  79703  
+Bucket 40 - 42:  92673  51222  80414  
+Bucket 43 - 45:  62949  44376  60776  
+Bucket 46 - 48:  90871  34660  70616  
+Bucket 49 - 51:  5469  41712  34251  
+Bucket 52 - 54:  37327  53641  5430  
+Bucket 55 - 57:  22482  73408  76934  
+Bucket 58 - 60:  49834  20683  69879  
+Bucket 61 - 63:  53402  20725  73204  
+Bucket 64 - 66:  17897  16462  65621  
+Bucket 67 - 69:  53117  8713  31487  
+Bucket 70 - 72:  18145  96082  39381  
+Bucket 73 - 75:  7240  87395  62180  
+Bucket 76 - 78:  4371  82696  61771  
+Bucket 79 - 81:  3142  31226  61361  
+Bucket 82 - 84:  76656  11466  22575  
+Bucket 85 - 87:  89941  5112  73909  
+Bucket 88 - 90:  30123  9295  85022  
+Bucket 91 - 93:  21719  71247  99543  
+Bucket 94 - 96:  6345  99380  60300  
+Bucket 97 - 99:  19876  73668  37670  
+Bucket 100 - 102:  96014  3559  32997  
+Bucket 103 - 105:  8315  65264  XXXXXX
+Bucket 106 - 108:  48456  28776  25168  
+Bucket 109 - 111:  50257  12376  41896  
+Bucket 112 - 114:  20414  33288  86957  
+Bucket 115 - 117:  1473  57069  80685  
+Bucket 118 - 120:  121  47065  23045  
+
+Load factor: 1.00
+
+---------------------------------------
+1 values unable to be hashed
+
+
+
+Execution time of linear probing via division scheme mod 41 when bucket size = 3: 1.25e-03 seconds
+
+Execution time of quadratic probing via division scheme mod 41 when bucket size = 3: 8.93e-04 seconds
+
+Execution time for entire division scheme mod 41 when bucket size = 3: 2.18e-03 seconds
+
+.........................................................
+
+Execution time of entire program run: 5.08e+00 seconds
+
+************************************Next Run************************************
+Input size: 120
+Bucket size: 1
+Method: Multiplication, multiplication value 120
+Collision handling: Linear probing
+Number of primary collisions:  107
+Number of secondary collisions: 1221
+
+Bucket 0 - 5:  [7240]  [9230]  [49160]  [34660]  [54410]  
+Bucket 5 - 10:  [37670]  [62180]  [6400]  [99380]  [60300]  
+Bucket 10 - 15:  [96082]  [17897]  [53117]  [32997]  [37327]  
+Bucket 15 - 20:  [50257]  [43347]  [7677]  [86957]  [71247]  
+Bucket 20 - 25:  [52817]  [31487]  [27147]  [49834]  [96014]  
+Bucket 25 - 30:  [16364]  [20414]  [65264]  [80414]  [74784]  
+Bucket 30 - 35:  [99304]  [28214]  [73204]  [76934]  [9724]  
+Bucket 35 - 40:  [89941]  [4371]  [53181]  [61771]  [121]  
+Bucket 40 - 45:  [90871]  [65621]  [34251]  [53641]  [61361]  
+Bucket 45 - 50:  [68021]  [90570]  [73668]  [25168]  [73408]  
+Bucket 50 - 55:  [33288]  [5430]  [24775]  [39381]  [23045]  
+Bucket 55 - 60:  [16478]  [69394]  [3696]  [66541]  [61540]  
+Bucket 60 - 65:  [19025]  [80905]  [9295]  [80685]  [8315]  
+Bucket 65 - 70:  [31415]  [6345]  [47065]  [87395]  [50355]  
+Bucket 70 - 75:  [20725]  [88562]  [25872]  [16462]  [3142]  
+Bucket 75 - 80:  [19312]  [51222]  [41712]  [85532]  [5112]  
+Bucket 80 - 85:  [85022]  [22482]  [43952]  [21719]  [62949]  
+Bucket 85 - 90:  [3559]  [14599]  [5469]  [57069]  [78199]  
+Bucket 90 - 95:  [69879]  [53402]  [35685]  [68109]  [49529]  
+Bucket 95 - 100:  [44376]  [19876]  [82696]  [48456]  [60776]  
+Bucket 100 - 105:  [28776]  [31226]  [70616]  [45346]  [76656]  
+Bucket 105 - 110:  [12376]  [11466]  [30123]  [1473]  [20683]  
+Bucket 110 - 115:  [983]  [92673]  [8713]  [41896]  [87576]  
+Bucket 115 - 120:  [99543]  [22575]  [73909]  [79703]  [18145]  
+
+Load factor: 1.00
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 120
+Bucket size: 1
+Method: Multiplication, multiplication value 120
+Collision handling: Quadratic probing
+Number of primary collisions:  107
+Number of secondary collisions: 2419
+
+Bucket 0 - 5:  [7240]  [9230]    XXXXXX  [9724]  [49160]  
+Bucket 5 - 10:  [87395]  [53641]  [92673]  [73204]  [78199]  
+Bucket 10 - 15:  [28776]  [17897]  [53117]  [32997]  [24775]  
+Bucket 15 - 20:  [34251]  [37327]  [16478]  [73909]  [61361]  
+Bucket 20 - 25:  [34660]  [45346]  [43347]  [49834]  [96014]  
+Bucket 25 - 30:  [65264]  [52817]  [16364]  [80414]  [11466]  
+Bucket 30 - 35:  [50355]  [31226]  [99543]  [20414]  [74784]  
+Bucket 35 - 40:  [89941]  [4371]  [27147]    XXXXXX  [53181]  
+Bucket 40 - 45:  [8315]  [53402]  [22482]  [99304]  [6345]  
+Bucket 45 - 50:  [61771]  [85022]  [73668]  [25168]  [18145]  
+Bucket 50 - 55:  [87576]  [5112]  [79703]    XXXXXX  [62180]  
+Bucket 55 - 60:  [121]  [54410]  [73408]  [28214]  [70616]  
+Bucket 60 - 65:  [19025]  [80905]    XXXXXX    XXXXXX  [9295]  
+Bucket 65 - 70:  [86957]  [12376]  [50257]  [68109]  [31415]  
+Bucket 70 - 75:  [90871]  [88562]  [25872]  [41712]  [99380]  
+Bucket 75 - 80:  [16462]  [43952]    XXXXXX  [76934]  [20725]  
+Bucket 80 - 85:  [80685]  [3142]  [33288]  [21719]  [62949]  
+Bucket 85 - 90:  [3559]  [22575]  [14599]  [5469]  [68021]  
+Bucket 90 - 95:  [35685]  [19312]  [31487]  [69879]  [57069]  
+Bucket 95 - 100:  [44376]  [19876]  [96082]  [69394]  [82696]  
+Bucket 100 - 105:  [37670]  [6400]  [7677]  [49529]  [76656]  
+Bucket 105 - 110:  [48456]  [51222]  [30123]  [1473]  [8713]  
+Bucket 110 - 115:  [41896]  [20683]  [71247]    XXXXXX  [47065]  
+Bucket 115 - 120:  [60776]  [85532]  [983]    XXXXXX  [65621]  
+
+Load factor: 1.00
+
+---------------------------------------
+8 values unable to be hashed
+
+
+Input size: 120
+Bucket size: 1
+Method: Multiplication, multiplication value 120
+Collision handling: Chaining
+Number of primary collisions:  104
+Number of secondary collisions: 0
+
+Bucket 0 - 5:  [7240][9230][49160][34660][54410][37670][62180][6400][99380][60300][90570][5430][61540]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 5 - 10:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 10 - 15:    XXXXXX  [17897][53117][50257][7677][86957][71247][52817][27147]  [32997][37327][43347][31487]    XXXXXX    XXXXXX  
+Bucket 15 - 20:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 20 - 25:    XXXXXX    XXXXXX    XXXXXX  [49834][16364][20414][99304][28214][9724]  [96014][65264][80414][74784][73204][76934][69394]  
+Bucket 25 - 30:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 30 - 35:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 35 - 40:  [89941][4371][53181][61771][121][90871][65621][34251][53641][61361][68021][39381][66541]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 40 - 45:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 45 - 50:    XXXXXX    XXXXXX  [73668][25168][73408][33288][16478]    XXXXXX    XXXXXX  
+Bucket 50 - 55:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 55 - 60:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 60 - 65:  [19025][80905][9295][80685][8315][31415][6345][47065][87395][50355][20725][35685][22575][18145][24775][23045]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 65 - 70:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 70 - 75:    XXXXXX  [88562][25872][16462][3142][19312][51222][85532][5112][85022][22482][53402][96082]  [41712][43952]    XXXXXX    XXXXXX  
+Bucket 75 - 80:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 80 - 85:    XXXXXX    XXXXXX    XXXXXX  [21719][14599][49529]  [62949][3559][5469][57069][78199][69879][68109][73909]  
+Bucket 85 - 90:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 90 - 95:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 95 - 100:  [44376][82696][48456][60776][28776][31226][70616][45346][76656][12376][11466][41896][87576][3696]  [19876]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 100 - 105:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 105 - 110:    XXXXXX    XXXXXX  [30123][1473][20683][983][92673][99543][79703]  [8713]    XXXXXX  
+Bucket 110 - 115:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 115 - 120:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+
+Load factor: 1.00
+
+---------------------------------------
+0 values unable to be hashed
+
+
+
+Execution time for linear probing via multiplication scheme value 120: 3.49e-03 seconds
+
+Execution time for quadratic probing via multiplication scheme value 120: 4.80e-03 seconds
+
+Execution time for chaining via multiplication scheme value 120: 8.31e-04 seconds
+
+Execution time for entire multiplication scheme value 120: 9.17e-03 seconds
+
+.........................................................
+
+Execution time of entire program run: 6.56e+00 seconds
+
+************************************Next Run************************************
+Input size: 150
+Bucket size: 1
+Method: Division, mod 120
+Collision handling: Linear probing
+Number of primary collisions:  63
+Number of secondary collisions: 869
+
+Bucket 0 - 5:  [67440]  [68401]  [14281]  [76921]  [36484]  
+Bucket 5 - 10:  [16325]  [87599]  [15837]  [97928]  [41049]  
+Bucket 10 - 15:  [60250]  [58444]  [83030]  [29173]  [87725]  
+Bucket 15 - 20:  [38413]  [117]  [44537]  [18737]  [18499]  
+Bucket 20 - 25:  [63140]  [87138]  [31702]  [15143]  [8783]  
+Bucket 25 - 30:  [38425]  [88706]  [98307]  [73942]  [41057]  
+Bucket 30 - 35:  [76710]  [71911]  [33497]  [93513]  [48513]  
+Bucket 35 - 40:  [96994]  [55236]  [69996]  [33278]  [78621]  
+Bucket 40 - 45:  [52959]  [4361]  [66978]  [22723]  [1124]  
+Bucket 45 - 50:  [29309]  [88826]  [20687]  [73728]  [3169]  
+Bucket 50 - 55:  [8808]  [38571]  [28250]  [49369]  [79733]  
+Bucket 55 - 60:  [48528]  [76216]  [45417]  [4378]  [65775]  
+Bucket 60 - 65:  [17220]  [57301]  [99780]  [74535]  [22110]  
+Bucket 65 - 70:  [48963]  [41154]  [51547]  [23828]  [19831]  
+Bucket 70 - 75:  [1990]  [38110]  [76631]  [67992]  [4391]  
+Bucket 75 - 80:  [53591]  [28396]  [40276]  [48517]  [73159]  
+Bucket 80 - 85:  [95240]  [46760]  [28388]  [43163]  [98003]  
+Bucket 85 - 90:  [2125]  [56964]  [55916]  [88644]  [53009]  
+Bucket 90 - 95:  [84739]  [44770]  [20732]  [45453]  [76174]  
+Bucket 95 - 100:  [82893]  [30456]  [83132]  [99812]  [16299]  
+Bucket 100 - 105:  [15940]  [17857]  [94542]  [21700]  [54942]  
+Bucket 105 - 110:  [22295]  [78105]  [76307]  [4172]  [85909]  
+Bucket 110 - 115:  [87830]  [91431]  [56392]  [15353]  [52434]  
+Bucket 115 - 120:  [92991]  [77150]  [18477]  [99718]  [42478]  
+
+Load factor: 1.25
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 150
+Bucket size: 1
+Method: Division, mod 120
+Collision handling: Quadratic probing
+Number of primary collisions:  58
+Number of secondary collisions: 444
+
+Bucket 0 - 5:  [67440]  [68401]  [14281]  [87599]  [36484]  
+Bucket 5 - 10:  [16325]  [87725]  [83132]  [97928]  [41049]  
+Bucket 10 - 15:  [60250]  [76921]  [48517]  [29173]  [58444]  
+Bucket 15 - 20:  [21700]  [76216]  [44537]  [18737]  [18499]  
+Bucket 20 - 25:  [63140]  [41057]  [31702]  [15143]  [8783]  
+Bucket 25 - 30:  [38425]  [88706]  [98307]  [87138]  [29309]  
+Bucket 30 - 35:  [76710]  [71911]  [73942]  [93513]  [48513]  
+Bucket 35 - 40:  [96994]  [55236]  [69996]  [33278]  [52959]  
+Bucket 40 - 45:  [22110]  [4361]  [15837]  [22723]  [1124]  
+Bucket 45 - 50:  [84739]  [77150]  [20687]  [73728]  [3169]  
+Bucket 50 - 55:  [28250]  [38571]  [8808]  [49369]  [79733]  
+Bucket 55 - 60:  [88644]  [78621]  [45417]  [4378]  [48963]  
+Bucket 60 - 65:  [17220]  [57301]  [4172]  [99812]  [99780]  
+Bucket 65 - 70:  [78105]  [19831]  [51547]  [23828]  [38413]  
+Bucket 70 - 75:  [1990]  [38110]  [76631]  [67992]  [66978]  
+Bucket 75 - 80:  [4391]  [28396]  [117]  [41154]  [73159]  
+Bucket 80 - 85:  [95240]  [46760]  [88826]  [43163]  [98003]  
+Bucket 85 - 90:  [2125]  [40276]    XXXXXX  [56964]  [53009]  
+Bucket 90 - 95:  [83030]  [53591]  [20732]  [45453]  [76174]  
+Bucket 95 - 100:  [65775]  [30456]  [82893]  [17857]  [16299]  
+Bucket 100 - 105:  [15940]  [33497]  [94542]  [54942]  [48528]  
+Bucket 105 - 110:  [22295]  [74535]  [76307]  [28388]  [85909]  
+Bucket 110 - 115:  [87830]  [91431]  [56392]  [15353]  [52434]  
+Bucket 115 - 120:  [92991]  [55916]  [18477]  [99718]  [42478]  
+
+Load factor: 1.25
+
+---------------------------------------
+1 values unable to be hashed
+
+
+Input size: 150
+Bucket size: 1
+Method: Division, mod 120
+Collision handling: Chaining
+Number of primary collisions:  44
+Number of secondary collisions: 0
+
+Bucket 0 - 5:  [67440]  [68401][14281][76921]    XXXXXX  [48963]  [36484][58444]  
+Bucket 5 - 10:  [16325][87725]    XXXXXX    XXXXXX  [97928]  [41049]  
+Bucket 10 - 15:  [60250][44770]    XXXXXX    XXXXXX  [29173][38413]    XXXXXX  
+Bucket 15 - 20:  [65775][74535]  [76216]  [44537][18737][41057][33497]  [87138][66978]  [18499][84739]  
+Bucket 20 - 25:  [63140]  [78621]  [31702][73942]  [15143][8783]    XXXXXX  
+Bucket 25 - 30:  [38425]  [88706][88826]  [98307]    XXXXXX  [29309]  
+Bucket 30 - 35:  [76710][22110]  [71911][19831]    XXXXXX  [93513][48513]  [96994]  
+Bucket 35 - 40:    XXXXXX  [55236][69996]  [48517]  [33278]  [52959]  
+Bucket 40 - 45:    XXXXXX  [4361]    XXXXXX  [22723]  [1124]  
+Bucket 45 - 50:    XXXXXX    XXXXXX  [20687]  [73728][8808][48528]  [3169][49369]  
+Bucket 50 - 55:  [28250]  [38571]    XXXXXX  [79733]    XXXXXX  
+Bucket 55 - 60:    XXXXXX    XXXXXX  [45417]  [4378]    XXXXXX  
+Bucket 60 - 65:  [17220][99780]  [57301]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 65 - 70:    XXXXXX    XXXXXX  [51547]  [23828][28388]    XXXXXX  
+Bucket 70 - 75:  [1990][38110]  [76631][4391][53591]  [67992]    XXXXXX    XXXXXX  
+Bucket 75 - 80:    XXXXXX  [28396][40276]    XXXXXX    XXXXXX  [73159]  
+Bucket 80 - 85:  [95240][46760]    XXXXXX    XXXXXX  [43163][98003]  [56964][88644]  
+Bucket 85 - 90:  [2125]    XXXXXX    XXXXXX    XXXXXX  [53009]  
+Bucket 90 - 95:    XXXXXX    XXXXXX  [20732][83132][99812][4172]  [45453][82893]  [76174]  
+Bucket 95 - 100:  [22295]  [30456]  [17857]    XXXXXX  [16299]  
+Bucket 100 - 105:  [15940][21700]    XXXXXX  [94542][54942]    XXXXXX    XXXXXX  
+Bucket 105 - 110:  [78105]    XXXXXX  [76307]    XXXXXX  [85909]  
+Bucket 110 - 115:  [87830][77150][83030]  [91431][92991]  [56392]  [15353]  [52434][41154]  
+Bucket 115 - 120:    XXXXXX  [55916]  [18477][15837][117]  [99718][42478]  [87599]  
+
+Load factor: 1.25
+
+---------------------------------------
+0 values unable to be hashed
+
+
+
+Execution time for linear probing via division scheme mod 120: 3.75e-03 seconds
+
+Execution time for quadratic probing via division scheme mod 120: 3.51e-03 seconds
+
+Execution time for chaining via division scheme mod 120: 1.36e-03 seconds
+
+Execution time for entire division scheme mod 120: 8.81e-03 seconds
+
+.........................................................
+
+Execution time of entire program run: 8.39e+00 seconds
+
+************************************Next Run************************************
+Input size: 150
+Bucket size: 1
+Method: Division, mod 113
+Collision handling: Linear probing
+Number of primary collisions:  64
+Number of secondary collisions: 1484
+
+Bucket 0 - 5:  [28250]  [88706]  [52434]  [15143]  [99780]  
+Bucket 5 - 10:  [3169]  [38425]  [56392]  [15940]  [17857]  
+Bucket 10 - 15:  [57301]  [22723]  [76174]  [56964]  [91431]  
+Bucket 15 - 20:  [44537]  [87138]  [76631]  [15837]  [29173]  
+Bucket 20 - 25:  [51547]  [60250]  [88826]  [58444]  [87599]  
+Bucket 25 - 30:  [21700]  [20687]  [16299]  [45453]  [38110]  
+Bucket 30 - 35:  [41049]  [87830]  [76307]  [98003]  [85909]  
+Bucket 35 - 40:  [28396]  [48513]  [68401]  [38571]  [41057]  
+Bucket 40 - 45:  [73942]  [96994]  [53591]  [71911]  [14281]  
+Bucket 45 - 50:  [99812]  [29309]  [17220]  [73159]  [69996]  
+Bucket 50 - 55:  [33497]  [87725]  [99718]  [20732]  [16325]  
+Bucket 55 - 60:  [73728]  [33278]  [48528]  [18477]  [30456]  
+Bucket 60 - 65:  [117]  [76216]  [93513]  [31702]  [82893]  
+Bucket 65 - 70:  [54942]  [65775]  [4361]  [79733]  [1990]  
+Bucket 70 - 75:  [97928]  [74535]  [22295]  [48963]  [94542]  
+Bucket 75 - 80:  [52959]  [22110]  [83132]  [40276]  [67992]  
+Bucket 80 - 85:  [18499]  [76921]  [8783]  [66978]  [4378]  
+Bucket 85 - 90:  [77150]  [63140]  [78621]  [83030]  [41154]  
+Bucket 90 - 95:  [19831]  [46760]  [67440]  [55236]  [95240]  
+Bucket 95 - 100:  [18737]  [76710]  [2125]  [23828]  [36484]  
+Bucket 100 - 105:  [15353]  [49369]  [4391]  [42478]  [45417]  
+Bucket 105 - 110:  [92991]  [38413]  [8808]  [1124]  [48517]  
+Bucket 110 - 115:  [98307]  [43163]  [78105]    XXXXXX    XXXXXX  
+Bucket 115 - 120:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+
+Load factor: 1.25
+
+---------------------------------------
+7 values unable to be hashed
+
+
+Input size: 150
+Bucket size: 1
+Method: Division, mod 113
+Collision handling: Quadratic probing
+Number of primary collisions:  64
+Number of secondary collisions: 1097
+
+Bucket 0 - 5:  [28250]  [88706]  [52434]  [17857]  [99812]  
+Bucket 5 - 10:  [3169]  [38425]  [15940]  [99780]  [56392]  
+Bucket 10 - 15:  [57301]  [15143]  [76174]  [56964]  [91431]  
+Bucket 15 - 20:  [44537]  [87138]  [76631]  [15837]  [29173]  
+Bucket 20 - 25:  [22723]  [60250]  [22110]  [51547]  [87599]  
+Bucket 25 - 30:  [117]  [54942]  [16299]  [45453]  [38110]  
+Bucket 30 - 35:  [41049]  [83030]  [76307]  [98003]  [28396]  
+Bucket 35 - 40:  [22295]  [48513]  [68401]  [38571]  [87830]  
+Bucket 40 - 45:  [73942]  [96994]  [41057]  [71911]  [14281]  
+Bucket 45 - 50:  [17220]  [29309]  [87725]  [73159]  [69996]  
+Bucket 50 - 55:  [33497]  [48528]  [99718]  [20732]  [16325]  
+Bucket 55 - 60:  [76216]  [73728]  [33278]  [18477]  [30456]  
+Bucket 60 - 65:  [88826]  [48517]  [93513]  [31702]  [82893]  
+Bucket 65 - 70:  [65775]  [19831]  [4361]  [79733]  [1990]  
+Bucket 70 - 75:  [97928]  [78105]  [74535]  [20687]  [94542]  
+Bucket 75 - 80:  [58444]  [52959]  [83132]  [41154]  [67992]  
+Bucket 80 - 85:  [18499]  [76921]  [8783]  [66978]  [4378]  
+Bucket 85 - 90:  [85909]  [63140]  [78621]  [77150]  [53591]  
+Bucket 90 - 95:  [48963]  [46760]  [67440]  [55236]  [95240]  
+Bucket 95 - 100:  [2125]  [76710]  [4391]  [23828]  [36484]  
+Bucket 100 - 105:  [40276]  [49369]  [15353]  [42478]  [45417]  
+Bucket 105 - 110:  [92991]  [38413]  [8808]  [1124]  [21700]  
+Bucket 110 - 115:  [98307]  [43163]  [18737]    XXXXXX    XXXXXX  
+Bucket 115 - 120:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+
+Load factor: 1.25
+
+---------------------------------------
+7 values unable to be hashed
+
+
+Input size: 150
+Bucket size: 1
+Method: Division, mod 113
+Collision handling: Chaining
+Number of primary collisions:  48
+Number of secondary collisions: 0
+
+Bucket 0 - 5:  [28250]  [88706][15143][99780]  [52434]  [17857]  [21700][117]  
+Bucket 5 - 10:  [3169][38425][56392]    XXXXXX  [15940]  [88826][20687]  [65775]  
+Bucket 10 - 15:  [57301][22723]    XXXXXX  [76174][56964][53009]    XXXXXX  [91431]  
+Bucket 15 - 20:  [44537][87138]    XXXXXX  [76631][15837]    XXXXXX  [29173][51547]  
+Bucket 20 - 25:    XXXXXX  [60250]  [41154][78105][44770]  [58444]  [87599][54942]  
+Bucket 25 - 30:  [28388]    XXXXXX  [16299][45453]    XXXXXX  [38110][87830][85909][53591]  
+Bucket 30 - 35:  [41049]    XXXXXX  [76307][98003]  [28396][99812]  [22295][48963]  
+Bucket 35 - 40:    XXXXXX  [48513][68401]  [87725]  [38571][41057]    XXXXXX  
+Bucket 40 - 45:  [73942][96994][48517]    XXXXXX  [29309]  [71911][14281]  [17220]  
+Bucket 45 - 50:    XXXXXX    XXXXXX    XXXXXX  [73159][40276]  [69996][33497]  
+Bucket 50 - 55:    XXXXXX  [48528]  [99718][73728][88644]  [20732][16325]  [76216]  
+Bucket 55 - 60:    XXXXXX  [33278][19831]    XXXXXX  [18477]  [30456]  
+Bucket 60 - 65:    XXXXXX    XXXXXX  [93513][31702]    XXXXXX  [82893]  
+Bucket 65 - 70:    XXXXXX    XXXXXX  [4361]  [79733][74535]  [1990]  
+Bucket 70 - 75:  [97928]    XXXXXX    XXXXXX    XXXXXX  [94542]  
+Bucket 75 - 80:  [52959][22110]    XXXXXX  [83132]    XXXXXX  [67992]  
+Bucket 80 - 85:  [18499]  [76921]  [8783][66978]    XXXXXX  [4378][77150]  
+Bucket 85 - 90:    XXXXXX  [63140][78621]    XXXXXX  [83030]    XXXXXX  
+Bucket 90 - 95:    XXXXXX  [46760][2125]  [67440][55236][18737]    XXXXXX  [95240][55916]  
+Bucket 95 - 100:    XXXXXX  [76710]  [4391]  [23828][36484][15353]    XXXXXX  
+Bucket 100 - 105:    XXXXXX  [49369]  [84739]  [42478]  [45417][4172]  
+Bucket 105 - 110:  [92991]  [38413]  [8808][1124]    XXXXXX    XXXXXX  
+Bucket 110 - 115:  [98307][43163]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 115 - 120:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+
+Load factor: 1.25
+
+---------------------------------------
+0 values unable to be hashed
+
+
+
+Execution time for linear probing via division scheme mod 113: 3.81e-03 seconds
+
+Execution time for quadratic probing via division scheme mod 113: 4.20e-03 seconds
+
+Execution time for chaining via division scheme mod 113: 7.67e-04 seconds
+
+Execution time for entire division scheme mod 113: 8.87e-03 seconds
+
+.........................................................
+
+Execution time of entire program run: 9.45e+00 seconds
+
+************************************Next Run************************************
+Input size: 150
+Bucket size: 3
+Method: Division, mod 41
+Collision handling: Linear probing
+Number of primary collisions:  30
+Number of secondary collisions: 100
+
+Bucket 1 - 3:  63140  76710  18737  
+Bucket 4 - 6:  28250  91431  33497  
+Bucket 7 - 9:  76631  42478  17220  
+Bucket 10 - 12:  92991  54942  78105  
+Bucket 13 - 15:  4391  53591  88644  
+Bucket 16 - 18:  49369  76921  83030  
+Bucket 19 - 21:  76307  99718  44770  
+Bucket 22 - 24:  23828  16325  4172  
+Bucket 25 - 27:  18499  41049  38425  
+Bucket 28 - 30:  55236  69996  8783  
+Bucket 31 - 33:  73728  31702  48513  
+Bucket 34 - 36:  44537  22723  51547  
+Bucket 37 - 39:  3169  87830  15837  
+Bucket 40 - 42:  98003  68401  14281  
+Bucket 43 - 45:  15143  67992  85909  
+Bucket 46 - 48:  4361  73159  87138  
+Bucket 49 - 51:  41057  56964  21700  
+Bucket 52 - 54:  56392  1124  65775  
+Bucket 55 - 57:  99812  22110  48963  
+Bucket 58 - 60:  15353  73942  58444  
+Bucket 61 - 63:  46760  97928  88826  
+Bucket 64 - 66:  60250  38110  40276  
+Bucket 67 - 69:  29173  16299  1990  
+Bucket 70 - 72:  88706  87599  17857  
+Bucket 73 - 75:  57301  28396  78621  
+Bucket 76 - 78:  45453  83132  66978  
+Bucket 79 - 81:  87725  48528  20687  
+Bucket 82 - 84:  20732  18477  33278  
+Bucket 85 - 87:  52959  99780  19831  
+Bucket 88 - 90:  79733  96994  77150  
+Bucket 91 - 93:  98307  45417  48517  
+Bucket 94 - 96:  38571  43163  41154  
+Bucket 97 - 99:  4378  82893  15940  
+Bucket 100 - 102:  93513  22295  28388  
+Bucket 103 - 105:  8808  30456  2125  
+Bucket 106 - 108:  36484  29309  117  
+Bucket 109 - 111:  67440  52434  55916  
+Bucket 112 - 114:  76174  94542  38413  
+Bucket 115 - 117:  71911  95240  76216  
+Bucket 118 - 120:  74535  53009  84739  
+
+Load factor: 1.25
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 150
+Bucket size: 3
+Method: Division, mod 41
+Collision handling: Quadratic probing
+Number of primary collisions:  29
+Number of secondary collisions: 128
+
+Bucket 1 - 3:  63140  18737  33497  
+Bucket 4 - 6:  28250  91431  17220  
+Bucket 7 - 9:  76631  42478  54942  
+Bucket 10 - 12:  76710  92991  48963  
+Bucket 13 - 15:  4391  53591  78105  
+Bucket 16 - 18:  49369  76921  83030  
+Bucket 19 - 21:  76307  99718  53009  
+Bucket 22 - 24:  23828  16325  19831  
+Bucket 25 - 27:  18499  41049  38425  
+Bucket 28 - 30:  55236  69996  8783  
+Bucket 31 - 33:  73728  31702  48513  
+Bucket 34 - 36:  44537  51547  15837  
+Bucket 37 - 39:  3169  87830  21700  
+Bucket 40 - 42:  98003  22723  68401  
+Bucket 43 - 45:  15143  67992  14281  
+Bucket 46 - 48:  4361  85909  73159  
+Bucket 49 - 51:  41057  56964  28388  
+Bucket 52 - 54:  56392  1124  87138  
+Bucket 55 - 57:  99812  40276  48517  
+Bucket 58 - 60:  15353  73942  58444  
+Bucket 61 - 63:  46760  97928  88826  
+Bucket 64 - 66:  60250  38110  65775  
+Bucket 67 - 69:  29173  16299  1990  
+Bucket 70 - 72:  88706  87599  17857  
+Bucket 73 - 75:  57301  28396  78621  
+Bucket 76 - 78:  45453  83132  66978  
+Bucket 79 - 81:  87725  48528  88644  
+Bucket 82 - 84:  20732  18477  33278  
+Bucket 85 - 87:  52959  99780  41154  
+Bucket 88 - 90:  79733  96994  77150  
+Bucket 91 - 93:  98307  45417  55916  
+Bucket 94 - 96:  38571  43163  22110  
+Bucket 97 - 99:  4378  82893  15940  
+Bucket 100 - 102:  93513  20687  22295  
+Bucket 103 - 105:  8808  30456  2125  
+Bucket 106 - 108:  36484  29309  117  
+Bucket 109 - 111:  67440  52434  84739  
+Bucket 112 - 114:  76174  94542  38413  
+Bucket 115 - 117:  71911  95240  76216  
+Bucket 118 - 120:  74535  44770  4172  
+
+Load factor: 1.25
+
+---------------------------------------
+0 values unable to be hashed
+
+
+
+Execution time of linear probing via division scheme mod 41 when bucket size = 3: 1.45e-03 seconds
+
+Execution time of quadratic probing via division scheme mod 41 when bucket size = 3: 1.05e-03 seconds
+
+Execution time for entire division scheme mod 41 when bucket size = 3: 2.55e-03 seconds
+
+.........................................................
+
+Execution time of entire program run: 1.02e+01 seconds
+
+************************************Next Run************************************
+Input size: 150
+Bucket size: 1
+Method: Multiplication, multiplication value 120
+Collision handling: Linear probing
+Number of primary collisions:  113
+Number of secondary collisions: 1492
+
+Bucket 0 - 5:  [67440]  [16325]  [60250]  [38425]  [1990]  
+Bucket 5 - 10:  [95240]  [38110]  [28250]  [63140]  [76710]  
+Bucket 10 - 15:  [46760]  [2125]  [87830]  [15940]  [77150]  
+Bucket 15 - 20:  [83030]  [17220]  [87725]  [99780]  [21700]  
+Bucket 20 - 25:  [65775]  [74535]  [22110]  [22295]  [23828]  
+Bucket 25 - 30:  [29173]  [43163]  [99718]  [73728]  [4378]  
+Bucket 30 - 35:  [45453]  [8808]  [93513]  [15143]  [15353]  
+Bucket 35 - 40:  [8783]  [33278]  [48513]  [82893]  [98003]  
+Bucket 40 - 45:  [22723]  [42478]  [79733]  [87138]  [97928]  
+Bucket 45 - 50:  [66978]  [48528]  [38413]  [38571]  [71911]  
+Bucket 50 - 55:  [55236]  [88706]  [30456]  [69996]  [76631]  
+Bucket 55 - 60:  [91431]  [57301]  [68401]  [4361]  [14281]  
+Bucket 60 - 65:  [76921]  [92991]  [28396]  [4391]  [78621]  
+Bucket 65 - 70:  [53591]  [88826]  [76216]  [48963]  [40276]  
+Bucket 70 - 75:  [19831]  [85909]  [16299]  [36484]  [76174]  
+Bucket 75 - 80:  [18499]  [52434]  [41049]  [3169]  [49369]  
+Bucket 80 - 85:  [1124]  [73159]  [87599]  [96994]  [58444]  
+Bucket 85 - 90:  [56964]  [52959]  [29309]  [41154]  [78105]  
+Bucket 90 - 95:  [28388]  [55916]  [53009]  [88644]  [84739]  
+Bucket 95 - 100:  [44537]  [20732]  [98307]  [76307]  [94542]  
+Bucket 100 - 105:  [18477]  [56392]  [31702]  [67992]  [18737]  
+Bucket 105 - 110:  [51547]  [73942]  [83132]  [15837]  [41057]  
+Bucket 110 - 115:  [33497]  [45417]  [99812]  [17857]  [20687]  
+Bucket 115 - 120:  [117]  [54942]  [48517]  [44770]  [4172]  
+
+Load factor: 1.25
+
+---------------------------------------
+0 values unable to be hashed
+
+
+Input size: 150
+Bucket size: 1
+Method: Multiplication, multiplication value 120
+Collision handling: Quadratic probing
+Number of primary collisions:  114
+Number of secondary collisions: 2702
+
+Bucket 0 - 5:  [67440]  [16325]  [54942]  [40276]  [60250]  
+Bucket 5 - 10:  [97928]  [56964]  [96994]  [3169]  [46760]  
+Bucket 10 - 15:  [38425]  [56392]  [91431]  [38413]  [48963]  
+Bucket 15 - 20:  [99780]  [99812]  [29309]  [53591]  [76921]  
+Bucket 20 - 25:  [1990]  [67992]  [18737]  [4361]  [23828]  
+Bucket 25 - 30:  [29173]  [21700]    XXXXXX  [43163]  [88826]  
+Bucket 30 - 35:  [15837]  [33497]  [31702]  [8783]  [99718]  
+Bucket 35 - 40:  [95240]  [49369]  [19831]  [55916]  [66978]  
+Bucket 40 - 45:  [77150]  [17857]  [41154]  [87138]  [73728]  
+Bucket 45 - 50:  [63140]  [76710]  [58444]  [38571]  [71911]  
+Bucket 50 - 55:  [48528]  [88644]  [55236]  [53009]  [87830]  
+Bucket 55 - 60:  [15940]  [38110]  [14281]  [88706]  [4378]  
+Bucket 60 - 65:  [48513]  [4172]    XXXXXX  [76216]  [22723]  
+Bucket 65 - 70:  [83030]  [45417]  [83132]  [30456]  [93513]  
+Bucket 70 - 75:  [15143]  [51547]  [16299]  [36484]  [22110]  
+Bucket 75 - 80:  [85909]  [76174]  [20687]  [82893]  [98003]  
+Bucket 80 - 85:  [45453]  [87599]  [18499]  [69996]  [28250]  
+Bucket 85 - 90:  [22295]  [48517]  [84739]  [4391]  [42478]  
+Bucket 90 - 95:  [17220]  [2125]  [52434]  [57301]  [68401]  
+Bucket 95 - 100:  [44537]  [20732]  [98307]  [28388]  [41057]  
+Bucket 100 - 105:  [76307]  [87725]  [92991]  [28396]  [76631]  
+Bucket 105 - 110:  [73942]  [94542]  [41049]  [8808]  [65775]  
+Bucket 110 - 115:  [74535]  [117]  [52959]  [78621]  [79733]  
+Bucket 115 - 120:  [33278]  [18477]  [1124]  [73159]  [15353]  
+
+Load factor: 1.25
+
+---------------------------------------
+2 values unable to be hashed
+
+
+Input size: 150
+Bucket size: 1
+Method: Multiplication, multiplication value 120
+Collision handling: Chaining
+Number of primary collisions:  113
+Number of secondary collisions: 0
+
+Bucket 0 - 5:  [67440][16325][60250][38425][1990][95240][38110][28250][63140][76710][46760][2125][87830][15940][77150][83030][17220][87725][99780][21700][65775][74535][22110][22295][78105][44770]    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 5 - 10:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 10 - 15:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 15 - 20:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 20 - 25:    XXXXXX    XXXXXX    XXXXXX    XXXXXX  [23828][29173][43163][99718][73728][4378][45453][8808][93513][15143][15353][8783][33278][48513][82893][98003][22723][42478][79733][87138][97928][66978][48528][38413][48963][28388]  
+Bucket 25 - 30:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 30 - 35:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 35 - 40:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 40 - 45:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 45 - 50:    XXXXXX    XXXXXX    XXXXXX  [38571][71911][55236][88706][30456][69996][76631][91431][57301][68401][4361][14281][76921][92991][28396][4391][78621][53591][88826][76216][40276][19831][55916]    XXXXXX  
+Bucket 50 - 55:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 55 - 60:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 60 - 65:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 65 - 70:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 70 - 75:    XXXXXX  [85909][87599][96994][88644][84739]  [16299][36484][76174][18499][52434][41049][3169][49369][1124][73159][58444][56964][52959][29309][41154][53009]    XXXXXX    XXXXXX  
+Bucket 75 - 80:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 80 - 85:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 85 - 90:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 90 - 95:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 95 - 100:  [44537][41057][45417][48517]  [20732][98307][76307][94542][18477][56392][31702][67992][18737][51547][73942][83132][15837][33497][99812][17857][20687][117][54942][4172]    XXXXXX    XXXXXX    XXXXXX  
+Bucket 100 - 105:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 105 - 110:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 110 - 115:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+Bucket 115 - 120:    XXXXXX    XXXXXX    XXXXXX    XXXXXX    XXXXXX  
+
+Load factor: 1.25
+
+---------------------------------------
+0 values unable to be hashed
+
+
+
+Execution time for linear probing via multiplication scheme value 120: 4.87e-03 seconds
+
+Execution time for quadratic probing via multiplication scheme value 120: 5.18e-03 seconds
+
+Execution time for chaining via multiplication scheme value 120: 8.65e-04 seconds
+
+Execution time for entire multiplication scheme value 120: 1.10e-02 seconds
+
+.........................................................
+
+Execution time of entire program run: 7.88e+00 seconds
+
+************************************Next Run************************************
