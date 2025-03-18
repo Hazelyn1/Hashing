@@ -1,5 +1,5 @@
 # Hashing
-This program was written in Python 3.8 in the IDE PyCharm, version 2021.2. This program writes the output to a file and can also be run on the command line if the input file(s) are in the same file as the program.
+This program was written in Python 3.8 in the IDE PyCharm, version 2021.2. This program writes the output to a file and can also be run on the command line if the input file(s) are in the same file as the program. Six example input files are provided as well as an example output file.
 
 
 This program hashes values in a given input text file to their proper location in a hash table containing 120 slots. This program implements four main hashing schemes: division modulo 120, division modulo 113, division modulo 41, and multiplication using value 120. Schemes 1, 2, and 4 hash values to a hash table of size 120 with a bucket size of 1 per slot and use linear probing, quadratic probing, and chaining to handle collisions. Scheme 2 by comparison hash values to a hash table of size of 120, but with a bucket size of 3 (meaning there are 40 accessible slots).
